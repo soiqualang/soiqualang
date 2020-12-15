@@ -39,7 +39,7 @@ Updating...
 ---
 ### Latest Blog Posts
 
-[dothanhlong.org](https://dothanhlong.org/)
+[dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)

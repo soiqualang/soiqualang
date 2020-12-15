@@ -19,6 +19,7 @@ I❤Open-source.
 - ⚡ Fun fact: ...
 
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
@@ -41,6 +42,11 @@ Updating...
 [dothanhlong.org](https://dothanhlong.org/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)
+- [Android – Fix lỗi Change your app’s target API level to at least…](https://dothanhlong.org/android-fix-loi-change-your-apps-target-api-level-to-at-least/)
+- [[Notes] Run batch as Service in Window](https://dothanhlong.org/notes-run-batch-as-service-in-window/)
+- [Debug Visualizer for Visual Studio Code](https://dothanhlong.org/debug-visualizer-for-visual-studio-code/)
+- [Draw.io VS Code Integration](https://dothanhlong.org/draw-io-vs-code-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

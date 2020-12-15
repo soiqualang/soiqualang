@@ -47,6 +47,11 @@ Updating...
 - [[Notes] Run batch as Service in Window](https://dothanhlong.org/notes-run-batch-as-service-in-window/)
 - [Debug Visualizer for Visual Studio Code](https://dothanhlong.org/debug-visualizer-for-visual-studio-code/)
 - [Draw.io VS Code Integration](https://dothanhlong.org/draw-io-vs-code-integration/)
+- [Khắc phục lỗi mất internet sai khi kết nối VPN](https://dothanhlong.org/khac-phuc-loi-mat-internet-sai-khi-ket-noi-vpn/)
+- [Android App Streaming Comes to All Windows 10 PCs](https://dothanhlong.org/android-app-streaming-comes-to-all-windows-10-pcs/)
+- [Android api version](https://dothanhlong.org/android-api-version/)
+- [[Deep Learning] Deploy flowers detection](https://dothanhlong.org/deep-learning-deploy-flowers-detection/)
+- [AngularJS IndexedDB Cheatset by soiqualang :v](https://dothanhlong.org/angularjs-indexeddb-cheatset-by-soiqualang-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

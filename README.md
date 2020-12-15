@@ -42,6 +42,11 @@ Updating...
 [dothanhlong.org](https://dothanhlong.org/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)
+- [Android – Fix lỗi Change your app’s target API level to at least…](https://dothanhlong.org/android-fix-loi-change-your-apps-target-api-level-to-at-least/)
+- [[Notes] Run batch as Service in Window](https://dothanhlong.org/notes-run-batch-as-service-in-window/)
+- [Debug Visualizer for Visual Studio Code](https://dothanhlong.org/debug-visualizer-for-visual-studio-code/)
+- [Draw.io VS Code Integration](https://dothanhlong.org/draw-io-vs-code-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

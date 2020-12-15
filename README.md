@@ -2,7 +2,6 @@
 
 ## soiqualang_chentreu
 
-
 [![GitHub Badge](https://img.shields.io/github/followers/soiqualang?style=social)](https://github.com/soiqualang?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=M2rJ9t8AAAAJ&hl=en)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCVMwejzVTfpYQ9qFxOLF2lQ)
@@ -18,6 +17,9 @@ I❤Open-source.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 ---
 
@@ -38,17 +40,9 @@ Updating...
 
 [dothanhlong.org](https://dothanhlong.org/)
 
-Updating...
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- HASHNODE:START -->
-<!--
-- [Geo for Good Summit 2020 Public Sector Meetup - Introduction to geemap](https://blog.gishub.org/geo-for-good-summit-2020-public-sector-meetup-introduction-to-geemap)
-- [JupyterCon 2020 - How Jupyter and geemap enable interactive mapping of large-scale geospatial datasets](https://blog.gishub.org/jupytercon-2020-how-jupyter-and-geemap-enable-interactive-mapping-of-large-scale-geospatial-datasets)
-- [GEE Tutorial #39 - How to create Landsat timelapse animations without coding](https://blog.gishub.org/gee-tutorial-39-how-to-create-landsat-timelapse-animations-without-coding)
-- [GEE Tutorial #38 - How to use Cloud Optimized GeoTIFF with Earth Engine](https://blog.gishub.org/gee-tutorial-38-how-to-use-cloud-optimized-geotiff-with-earth-engine)
-- [How to create timelapse animations of spectral indices (e.g., NDWI, NDVI)](https://blog.gishub.org/how-to-create-timelapse-animations-of-spectral-indices-eg-ndwi-ndvi)
--->
-<!-- HASHNODE:END -->
 ---
 
 

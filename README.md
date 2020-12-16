@@ -42,6 +42,7 @@ Updating...
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Sưu tầm] GitHub Actions for iOS projects](https://dothanhlong.org/suu-tam-github-actions-for-ios-projects/)
 - [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)
 - [Android – Fix lỗi Change your app’s target API level to at least…](https://dothanhlong.org/android-fix-loi-change-your-apps-target-api-level-to-at-least/)
 - [[Notes] Run batch as Service in Window](https://dothanhlong.org/notes-run-batch-as-service-in-window/)
@@ -51,7 +52,6 @@ Updating...
 - [Android App Streaming Comes to All Windows 10 PCs](https://dothanhlong.org/android-app-streaming-comes-to-all-windows-10-pcs/)
 - [Android api version](https://dothanhlong.org/android-api-version/)
 - [[Deep Learning] Deploy flowers detection](https://dothanhlong.org/deep-learning-deploy-flowers-detection/)
-- [AngularJS IndexedDB Cheatset by soiqualang :v](https://dothanhlong.org/angularjs-indexeddb-cheatset-by-soiqualang-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

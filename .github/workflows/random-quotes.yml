@@ -3,9 +3,9 @@ name: Update Quote Readme
 on:
   workflow_dispatch:
   schedule:
-    # At minute 0 past every 3rd hour
-    # https://crontab.guru/every-3-hours
-    - cron: "0 */3 * * *"
+    # every-day at 00:00
+    # https://crontab.guru/every-day
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:

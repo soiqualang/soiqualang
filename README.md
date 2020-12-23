@@ -58,7 +58,7 @@ Updating...
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soiqualang&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soiqualang&langs_count=8&layout=compact)](https://github.com/soiqualang/Py4Sqlite3)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soiqualang&langs_count=8&layout=compact)](https://github.com/soiqualang/Py4Sqlite3) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
 
 

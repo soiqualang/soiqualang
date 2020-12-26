@@ -42,6 +42,8 @@ Updating...
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[openrouteservice] Route optimization of a pub crawl with ORS and ortools](https://dothanhlong.org/openrouteservice-route-optimization-of-a-pub-crawl-with-ors-and-ortools/)
+- [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/test-wordpress-markdown-git/)
 - [Cross-site Scripting Attacks on Android WebView](https://dothanhlong.org/cross-site-scripting-attacks-on-android-webview/)
 - [[IONIC] Fix lỗi No Java files found that extend CordovaActivity](https://dothanhlong.org/ionic-fix-loi-no-java-files-found-that-extend-cordovaactivity/)
 - [[Sưu tầm] GitHub Actions for iOS projects](https://dothanhlong.org/suu-tam-github-actions-for-ios-projects/)
@@ -50,8 +52,6 @@ Updating...
 - [[Notes] Run batch as Service in Window](https://dothanhlong.org/notes-run-batch-as-service-in-window/)
 - [Debug Visualizer for Visual Studio Code](https://dothanhlong.org/debug-visualizer-for-visual-studio-code/)
 - [Draw.io VS Code Integration](https://dothanhlong.org/draw-io-vs-code-integration/)
-- [Khắc phục lỗi mất internet sai khi kết nối VPN](https://dothanhlong.org/khac-phuc-loi-mat-internet-sai-khi-ket-noi-vpn/)
-- [Android App Streaming Comes to All Windows 10 PCs](https://dothanhlong.org/android-app-streaming-comes-to-all-windows-10-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -42,6 +42,9 @@ Updating...
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes cách cài đặt và sử dụng Documents from Git | wordpress-markdown-git](https://dothanhlong.org/notes-cach-cai-dat-va-su-dung-documents-from-git-wordpress-markdown-git/)
+- [Chuyển soạn thảo blog từ WordPress sang Markdown Github](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
+- [WordPress Plugin – Publish Documents from Git](https://dothanhlong.org/wordpress-plugin-publish-documents-from-git/)
 - [[openrouteservice] Route optimization of a pub crawl with ORS and ortools](https://dothanhlong.org/openrouteservice-route-optimization-of-a-pub-crawl-with-ors-and-ortools/)
 - [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/test-wordpress-markdown-git/)
 - [Cross-site Scripting Attacks on Android WebView](https://dothanhlong.org/cross-site-scripting-attacks-on-android-webview/)
@@ -49,9 +52,6 @@ Updating...
 - [[Sưu tầm] GitHub Actions for iOS projects](https://dothanhlong.org/suu-tam-github-actions-for-ios-projects/)
 - [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)
 - [Android – Fix lỗi Change your app’s target API level to at least…](https://dothanhlong.org/android-fix-loi-change-your-apps-target-api-level-to-at-least/)
-- [[Notes] Run batch as Service in Window](https://dothanhlong.org/notes-run-batch-as-service-in-window/)
-- [Debug Visualizer for Visual Studio Code](https://dothanhlong.org/debug-visualizer-for-visual-studio-code/)
-- [Draw.io VS Code Integration](https://dothanhlong.org/draw-io-vs-code-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

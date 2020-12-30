@@ -26,37 +26,21 @@
 
 ### Open-source Projects
 
-> raster cutting
+- **Learning:** 
+[learn html](https://github.com/soiqualang/learn_html) | 
+[Learn AngularJS](https://github.com/soiqualang/Learn_AngularJS) | 
+[ionic angular learning](https://github.com/soiqualang/ionic_angular_learning) | 
+[learn flutter](https://github.com/soiqualang/learn_flutter)
 
-https://github.com/soiqualang/raster_cutting
+- **Leaflet:** 
+[Leaflet label collision](https://github.com/soiqualang/label_collision_leaflet_v2)
 
-> Leaflet label collision
+- **Webapp:** 
+[Vietnam maps history](https://github.com/soiqualang/Vietnam_map_history)
 
-https://github.com/soiqualang/label_collision_leaflet_v2
-
-> Web map | Vietnam maps history
-
-https://github.com/soiqualang/Vietnam_map_history
-
-> learn flutter
-
-https://github.com/soiqualang/learn_flutter
-
-> Python function for Sqlite
-
-https://github.com/soiqualang/Py4Sqlite3
-
-> Learn AngularJS
-
-https://github.com/soiqualang/Learn_AngularJS
-
-> ionic angular learning
-
-https://github.com/soiqualang/ionic_angular_learning
-
-> learn html
-
-https://github.com/soiqualang/learn_html
+- **Python tools:** 
+[raster cutting](https://github.com/soiqualang/raster_cutting) | 
+[Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3)
 
 
 <!--

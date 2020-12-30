@@ -54,6 +54,9 @@ https://github.com/soiqualang/Learn_AngularJS
 
 https://github.com/soiqualang/ionic_angular_learning
 
+> learn html
+
+https://github.com/soiqualang/learn_html
 
 
 <!--

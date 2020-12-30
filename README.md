@@ -34,7 +34,27 @@ https://github.com/soiqualang/raster_cutting
 
 https://github.com/soiqualang/label_collision_leaflet_v2
 
-...
+> Web map | Vietnam maps history
+
+https://github.com/soiqualang/Vietnam_map_history
+
+> learn flutter
+
+https://github.com/soiqualang/learn_flutter
+
+> Python function for Sqlite
+
+https://github.com/soiqualang/Py4Sqlite3
+
+> Learn AngularJS
+
+https://github.com/soiqualang/Learn_AngularJS
+
+> ionic angular learning
+
+https://github.com/soiqualang/ionic_angular_learning
+
+
 
 <!--
 - **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)

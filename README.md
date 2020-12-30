@@ -31,6 +31,7 @@
 [Learn AngularJS](https://github.com/soiqualang/Learn_AngularJS) | 
 [ionic angular learning](https://github.com/soiqualang/ionic_angular_learning) | 
 [learn flutter](https://github.com/soiqualang/learn_flutter)
+[learn python](https://github.com/soiqualang/colab)
 - **Leaflet:** 
 [Leaflet label collision](https://github.com/soiqualang/label_collision_leaflet_v2)
 - **Webapp:** 

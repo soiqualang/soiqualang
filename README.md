@@ -55,6 +55,11 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [D3 Gallery (example)](https://dothanhlong.org/d3-gallery-example/)
+- [Bản đồ sao, chòm sao (Stars and constellations)](https://dothanhlong.org/ban-do-sao-chom-sao-stars-and-constellations/)
+- [Hướng dẫn chuyển thư mục TEMP sang ổ đĩa khác](https://dothanhlong.org/huong-dan-chuyen-thu-muc-temp-sang-o-dia-khac/)
+- [Advanced Formatting in GitHub Markdown](https://dothanhlong.org/advanced-formatting-in-github-markdown/)
+- [Notes sử dụng GIT (github)](https://dothanhlong.org/notes-su-dung-git-github/)
 - [Notes cách cài đặt và sử dụng Documents from Git | wordpress-markdown-git](https://dothanhlong.org/notes-cach-cai-dat-va-su-dung-documents-from-git-wordpress-markdown-git/)
 - [Chuyển soạn thảo blog từ WordPress sang Markdown Github](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
 - [WordPress Plugin – Publish Documents from Git](https://dothanhlong.org/wordpress-plugin-publish-documents-from-git/)

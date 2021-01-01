@@ -55,6 +55,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Interesting facts about gail.com](https://dothanhlong.org/interesting-facts-about-gail-com/)
 - [D3 Gallery (example)](https://dothanhlong.org/d3-gallery-example/)
 - [Bản đồ sao, chòm sao (Stars and constellations)](https://dothanhlong.org/ban-do-sao-chom-sao-stars-and-constellations/)
 - [Hướng dẫn chuyển thư mục TEMP sang ổ đĩa khác](https://dothanhlong.org/huong-dan-chuyen-thu-muc-temp-sang-o-dia-khac/)
@@ -64,12 +65,11 @@
 - [Chuyển soạn thảo blog từ WordPress sang Markdown Github](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
 - [WordPress Plugin – Publish Documents from Git](https://dothanhlong.org/wordpress-plugin-publish-documents-from-git/)
 - [[openrouteservice] Route optimization of a pub crawl with ORS and ortools](https://dothanhlong.org/openrouteservice-route-optimization-of-a-pub-crawl-with-ors-and-ortools/)
-- [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/test-wordpress-markdown-git/)
+- [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/qgis-3-plugins-build-your-first-plugin/)
 - [Cross-site Scripting Attacks on Android WebView](https://dothanhlong.org/cross-site-scripting-attacks-on-android-webview/)
 - [[IONIC] Fix lỗi No Java files found that extend CordovaActivity](https://dothanhlong.org/ionic-fix-loi-no-java-files-found-that-extend-cordovaactivity/)
 - [[Sưu tầm] GitHub Actions for iOS projects](https://dothanhlong.org/suu-tam-github-actions-for-ios-projects/)
 - [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)
-- [Android – Fix lỗi Change your app’s target API level to at least…](https://dothanhlong.org/android-fix-loi-change-your-apps-target-api-level-to-at-least/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,6 +55,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Từng bước để đẩy Apps lên TestFlight – phần 2](https://dothanhlong.org/tung-buoc-de-day-apps-len-testflight-phan-2/)
+- [Hướng dẫn cơ bản về TestFlight – phần 1](https://dothanhlong.org/huong-dan-co-ban-ve-testflight-phan-1/)
 - [Interesting facts about gail.com](https://dothanhlong.org/interesting-facts-about-gail-com/)
 - [D3 Gallery (example)](https://dothanhlong.org/d3-gallery-example/)
 - [Bản đồ sao, chòm sao (Stars and constellations)](https://dothanhlong.org/ban-do-sao-chom-sao-stars-and-constellations/)
@@ -68,8 +70,6 @@
 - [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/qgis-3-plugins-build-your-first-plugin/)
 - [Cross-site Scripting Attacks on Android WebView](https://dothanhlong.org/cross-site-scripting-attacks-on-android-webview/)
 - [[IONIC] Fix lỗi No Java files found that extend CordovaActivity](https://dothanhlong.org/ionic-fix-loi-no-java-files-found-that-extend-cordovaactivity/)
-- [[Sưu tầm] GitHub Actions for iOS projects](https://dothanhlong.org/suu-tam-github-actions-for-ios-projects/)
-- [Cài MiniConda, không set biến môi trường](https://dothanhlong.org/cai-miniconda-khong-set-bien-moi-truong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

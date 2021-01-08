@@ -38,7 +38,8 @@
 [Vietnam maps history](https://github.com/soiqualang/Vietnam_map_history)
 - **Python tools:** 
 [raster cutting](https://github.com/soiqualang/raster_cutting) | 
-[Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3)
+[Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3) | 
+[pyQGIS Export layers as image files](https://github.com/soiqualang/test_pyQGIS)
 
 
 <!--

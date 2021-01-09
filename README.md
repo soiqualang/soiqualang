@@ -60,6 +60,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [GeoCoding với opencagedata và Leaflet](https://dothanhlong.org/geocoding-voi-opencagedata-va-leaflet/)
 - [Từng bước để đẩy Apps lên TestFlight – phần 2](https://dothanhlong.org/tung-buoc-de-day-apps-len-testflight-phan-2/)
 - [Hướng dẫn cơ bản về TestFlight – phần 1](https://dothanhlong.org/huong-dan-co-ban-ve-testflight-phan-1/)
 - [Interesting facts about gail.com](https://dothanhlong.org/interesting-facts-about-gail-com/)
@@ -74,7 +75,6 @@
 - [[openrouteservice] Route optimization of a pub crawl with ORS and ortools](https://dothanhlong.org/openrouteservice-route-optimization-of-a-pub-crawl-with-ors-and-ortools/)
 - [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/qgis-3-plugins-build-your-first-plugin/)
 - [Cross-site Scripting Attacks on Android WebView](https://dothanhlong.org/cross-site-scripting-attacks-on-android-webview/)
-- [[IONIC] Fix lỗi No Java files found that extend CordovaActivity](https://dothanhlong.org/ionic-fix-loi-no-java-files-found-that-extend-cordovaactivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

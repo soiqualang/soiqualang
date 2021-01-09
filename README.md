@@ -29,6 +29,7 @@
 - **Learning:** 
 [learn html](https://github.com/soiqualang/learn_html) | 
 [Learn AngularJS](https://github.com/soiqualang/Learn_AngularJS) | 
+[Learn NodeJS](https://github.com/soiqualang/hoc_nodejs) | 
 [ionic angular learning](https://github.com/soiqualang/ionic_angular_learning) | 
 [learn flutter](https://github.com/soiqualang/learn_flutter) | 
 [learn python](https://github.com/soiqualang/colab)

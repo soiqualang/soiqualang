@@ -42,7 +42,8 @@
 [Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3) | 
 [pyQGIS Export layers as image files](https://github.com/soiqualang/test_pyQGIS)
 - **Services:** 
-[crazy english](https://github.com/soiqualang/crazy_english) 
+[crazy english](https://github.com/soiqualang/crazy_english) | 
+[Get client info](https://github.com/soiqualang/api4client_info)
 
 
 <!--

@@ -36,10 +36,12 @@
 [Leaflet label collision](https://github.com/soiqualang/label_collision_leaflet_v2)
 - **Webapp:** 
 [Vietnam maps history](https://github.com/soiqualang/Vietnam_map_history)
-- **Python tools:** 
+- **Tools:** 
 [raster cutting](https://github.com/soiqualang/raster_cutting) | 
 [Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3) | 
 [pyQGIS Export layers as image files](https://github.com/soiqualang/test_pyQGIS)
+- **Services:** 
+[crazy english](https://github.com/soiqualang/crazy_english) 
 
 
 <!--

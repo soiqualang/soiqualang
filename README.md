@@ -60,6 +60,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hướng dẫn Tileserver T-rex](https://dothanhlong.org/huong-dan-tileserver-t-rex/)
+- [Cài Docker Window, fix lỗi “Hardware assisted virtualization…”](https://dothanhlong.org/cai-docker-window-fix-loi-hardware-assisted-virtualization/)
+- [Ionic Text to Speech: How to Convert Text to Speech in Ionic Application using Ionic Native and Cordova Plugins (Có thử tiếng Việt ok)](https://dothanhlong.org/ionic-text-to-speech-how-to-convert-text-to-speech-in-ionic-application-using-ionic-native-and-cordova-plugins-co-thu-tieng-viet-ok/)
 - [GeoCoding với opencagedata và Leaflet](https://dothanhlong.org/geocoding-voi-opencagedata-va-leaflet/)
 - [Từng bước để đẩy Apps lên TestFlight – phần 2](https://dothanhlong.org/tung-buoc-de-day-apps-len-testflight-phan-2/)
 - [Hướng dẫn cơ bản về TestFlight – phần 1](https://dothanhlong.org/huong-dan-co-ban-ve-testflight-phan-1/)
@@ -72,9 +75,6 @@
 - [Notes cách cài đặt và sử dụng Documents from Git | wordpress-markdown-git](https://dothanhlong.org/notes-cach-cai-dat-va-su-dung-documents-from-git-wordpress-markdown-git/)
 - [Chuyển soạn thảo blog từ WordPress sang Markdown Github](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
 - [WordPress Plugin – Publish Documents from Git](https://dothanhlong.org/wordpress-plugin-publish-documents-from-git/)
-- [[openrouteservice] Route optimization of a pub crawl with ORS and ortools](https://dothanhlong.org/openrouteservice-route-optimization-of-a-pub-crawl-with-ors-and-ortools/)
-- [QGIS 3 Plugins – Build your first plugin](https://dothanhlong.org/qgis-3-plugins-build-your-first-plugin/)
-- [Cross-site Scripting Attacks on Android WebView](https://dothanhlong.org/cross-site-scripting-attacks-on-android-webview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

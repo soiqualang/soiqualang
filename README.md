@@ -60,6 +60,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to redirect HTTP to HTTPS Using .htaccess](https://dothanhlong.org/how-to-redirect-http-to-https-using-htaccess/)
 - [Hướng dẫn Tileserver T-rex](https://dothanhlong.org/huong-dan-tileserver-t-rex/)
 - [Cài Docker Window, fix lỗi “Hardware assisted virtualization…”](https://dothanhlong.org/cai-docker-window-fix-loi-hardware-assisted-virtualization/)
 - [Ionic Text to Speech: How to Convert Text to Speech in Ionic Application using Ionic Native and Cordova Plugins (Có thử tiếng Việt ok)](https://dothanhlong.org/ionic-text-to-speech-how-to-convert-text-to-speech-in-ionic-application-using-ionic-native-and-cordova-plugins-co-thu-tieng-viet-ok/)
@@ -74,7 +75,6 @@
 - [Notes sử dụng GIT (github)](https://dothanhlong.org/notes-su-dung-git-github/)
 - [Notes cách cài đặt và sử dụng Documents from Git | wordpress-markdown-git](https://dothanhlong.org/notes-cach-cai-dat-va-su-dung-documents-from-git-wordpress-markdown-git/)
 - [Chuyển soạn thảo blog từ WordPress sang Markdown Github](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
-- [WordPress Plugin – Publish Documents from Git](https://dothanhlong.org/wordpress-plugin-publish-documents-from-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

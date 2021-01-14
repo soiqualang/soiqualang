@@ -60,6 +60,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Add PostGIS spatial functions to a custom schema other than “public” in PostgreSQL](https://dothanhlong.org/add-postgis-spatial-functions-to-a-custom-schema-other-than-public-in-postgresql/)
+- [Kỹ thuật đồng bộ, bất đồng bộ trong ajax](https://dothanhlong.org/ky-thuat-dong-bo-bat-dong-bo-trong-ajax/)
 - [How to redirect HTTP to HTTPS Using .htaccess](https://dothanhlong.org/how-to-redirect-http-to-https-using-htaccess/)
 - [Hướng dẫn Tileserver T-rex](https://dothanhlong.org/huong-dan-tileserver-t-rex/)
 - [Cài Docker Window, fix lỗi “Hardware assisted virtualization…”](https://dothanhlong.org/cai-docker-window-fix-loi-hardware-assisted-virtualization/)
@@ -73,8 +75,6 @@
 - [Hướng dẫn chuyển thư mục TEMP sang ổ đĩa khác](https://dothanhlong.org/huong-dan-chuyen-thu-muc-temp-sang-o-dia-khac/)
 - [Advanced Formatting in GitHub Markdown](https://dothanhlong.org/advanced-formatting-in-github-markdown/)
 - [Notes sử dụng GIT (github)](https://dothanhlong.org/notes-su-dung-git-github/)
-- [Notes cách cài đặt và sử dụng Documents from Git | wordpress-markdown-git](https://dothanhlong.org/notes-cach-cai-dat-va-su-dung-documents-from-git-wordpress-markdown-git/)
-- [Chuyển soạn thảo blog từ WordPress sang Markdown Github](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -60,6 +60,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[python] Tool để download, transcript Youtube by soiqualang](https://dothanhlong.org/python-tool-de-download-transcript-youtube-by-soiqualang/)
+- [Bài thi thử python](https://dothanhlong.org/bai-thi-thu-python/)
+- [Hướng dẫn docker toàn tập](https://dothanhlong.org/huong-dan-docker-toan-tap/)
 - [Add PostGIS spatial functions to a custom schema other than “public” in PostgreSQL](https://dothanhlong.org/add-postgis-spatial-functions-to-a-custom-schema-other-than-public-in-postgresql/)
 - [Kỹ thuật đồng bộ, bất đồng bộ trong ajax](https://dothanhlong.org/ky-thuat-dong-bo-bat-dong-bo-trong-ajax/)
 - [How to redirect HTTP to HTTPS Using .htaccess](https://dothanhlong.org/how-to-redirect-http-to-https-using-htaccess/)
@@ -72,9 +75,6 @@
 - [Interesting facts about gail.com](https://dothanhlong.org/interesting-facts-about-gail-com/)
 - [D3 Gallery (example)](https://dothanhlong.org/d3-gallery-example/)
 - [Bản đồ sao, chòm sao (Stars and constellations)](https://dothanhlong.org/ban-do-sao-chom-sao-stars-and-constellations/)
-- [Hướng dẫn chuyển thư mục TEMP sang ổ đĩa khác](https://dothanhlong.org/huong-dan-chuyen-thu-muc-temp-sang-o-dia-khac/)
-- [Advanced Formatting in GitHub Markdown](https://dothanhlong.org/advanced-formatting-in-github-markdown/)
-- [Notes sử dụng GIT (github)](https://dothanhlong.org/notes-su-dung-git-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

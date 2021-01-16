@@ -60,6 +60,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hướng dẫn cơ bản với MySQL – Thiết kế Database](https://dothanhlong.org/huong-dan-co-ban-voi-mysql-thiet-ke-database/)
+- [Deprecated HTML Tag List](https://dothanhlong.org/deprecated-html-tag-list/)
+- [Sentinel 2 Atmospheric Correction in Google Earth Engine](https://dothanhlong.org/sentinel-2-atmospheric-correction-in-google-earth-engine/)
 - [[python] Tool để download, transcript Youtube by soiqualang](https://dothanhlong.org/python-tool-de-download-transcript-youtube-by-soiqualang/)
 - [Bài thi thử python](https://dothanhlong.org/bai-thi-thu-python/)
 - [Hướng dẫn docker toàn tập](https://dothanhlong.org/huong-dan-docker-toan-tap/)
@@ -72,9 +75,6 @@
 - [GeoCoding với opencagedata và Leaflet](https://dothanhlong.org/geocoding-voi-opencagedata-va-leaflet/)
 - [Từng bước để đẩy Apps lên TestFlight – phần 2](https://dothanhlong.org/tung-buoc-de-day-apps-len-testflight-phan-2/)
 - [Hướng dẫn cơ bản về TestFlight – phần 1](https://dothanhlong.org/huong-dan-co-ban-ve-testflight-phan-1/)
-- [Interesting facts about gail.com](https://dothanhlong.org/interesting-facts-about-gail-com/)
-- [D3 Gallery (example)](https://dothanhlong.org/d3-gallery-example/)
-- [Bản đồ sao, chòm sao (Stars and constellations)](https://dothanhlong.org/ban-do-sao-chom-sao-stars-and-constellations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

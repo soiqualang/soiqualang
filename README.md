@@ -60,6 +60,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix lỗi The Windows Subsystem for Linux optional component is not enabled](https://dothanhlong.org/fix-loi-the-windows-subsystem-for-linux-optional-component-is-not-enabled/)
 - [Hướng dẫn cơ bản với MySQL – Thiết kế Database](https://dothanhlong.org/huong-dan-co-ban-voi-mysql-thiet-ke-database/)
 - [Deprecated HTML Tag List](https://dothanhlong.org/deprecated-html-tag-list/)
 - [Sentinel 2 Atmospheric Correction in Google Earth Engine](https://dothanhlong.org/sentinel-2-atmospheric-correction-in-google-earth-engine/)
@@ -74,7 +75,6 @@
 - [Ionic Text to Speech: How to Convert Text to Speech in Ionic Application using Ionic Native and Cordova Plugins (Có thử tiếng Việt ok)](https://dothanhlong.org/ionic-text-to-speech-how-to-convert-text-to-speech-in-ionic-application-using-ionic-native-and-cordova-plugins-co-thu-tieng-viet-ok/)
 - [GeoCoding với opencagedata và Leaflet](https://dothanhlong.org/geocoding-voi-opencagedata-va-leaflet/)
 - [Từng bước để đẩy Apps lên TestFlight – phần 2](https://dothanhlong.org/tung-buoc-de-day-apps-len-testflight-phan-2/)
-- [Hướng dẫn cơ bản về TestFlight – phần 1](https://dothanhlong.org/huong-dan-co-ban-ve-testflight-phan-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

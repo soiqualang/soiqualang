@@ -60,6 +60,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Papper] Development of an extension of GeoServer for handling 3D spatial data](https://dothanhlong.org/papper-development-of-an-extension-of-geoserver-for-handling-3d-spatial-data/)
+- [[Paper] Visualization of 3D Survey Data for Strata Titles](https://dothanhlong.org/paper-visualization-of-3d-survey-data-for-strata-titles/)
 - [T-Youtube – Tool download video, mp3 từ Youtube](https://dothanhlong.org/t-youtube-tool-download-video-mp3-tu-youtube/)
 - [Tạo ứng dụng Docker đầu tiên – Build Docker by soiqualang](https://dothanhlong.org/tao-ung-dung-docker-dau-tien-build-docker-by-soiqualang/)
 - [Fix lỗi The Windows Subsystem for Linux optional component is not enabled](https://dothanhlong.org/fix-loi-the-windows-subsystem-for-linux-optional-component-is-not-enabled/)
@@ -73,8 +75,6 @@
 - [Kỹ thuật đồng bộ, bất đồng bộ trong ajax](https://dothanhlong.org/ky-thuat-dong-bo-bat-dong-bo-trong-ajax/)
 - [How to redirect HTTP to HTTPS Using .htaccess](https://dothanhlong.org/how-to-redirect-http-to-https-using-htaccess/)
 - [Hướng dẫn Tileserver T-rex](https://dothanhlong.org/huong-dan-tileserver-t-rex/)
-- [Cài Docker Window, fix lỗi “Hardware assisted virtualization…”](https://dothanhlong.org/cai-docker-window-fix-loi-hardware-assisted-virtualization/)
-- [Ionic Text to Speech: How to Convert Text to Speech in Ionic Application using Ionic Native and Cordova Plugins (Có thử tiếng Việt ok)](https://dothanhlong.org/ionic-text-to-speech-how-to-convert-text-to-speech-in-ionic-application-using-ionic-native-and-cordova-plugins-co-thu-tieng-viet-ok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

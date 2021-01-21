@@ -60,6 +60,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tại sao các dev thường ghét PHP?](https://dothanhlong.org/tai-sao-cac-dev-thuong-ghet-php/)
 - [[Papper] Development of an extension of GeoServer for handling 3D spatial data](https://dothanhlong.org/papper-development-of-an-extension-of-geoserver-for-handling-3d-spatial-data/)
 - [[Paper] Visualization of 3D Survey Data for Strata Titles](https://dothanhlong.org/paper-visualization-of-3d-survey-data-for-strata-titles/)
 - [T-Youtube – Tool download video, mp3 từ Youtube](https://dothanhlong.org/t-youtube-tool-download-video-mp3-tu-youtube/)
@@ -74,7 +75,6 @@
 - [Add PostGIS spatial functions to a custom schema other than “public” in PostgreSQL](https://dothanhlong.org/add-postgis-spatial-functions-to-a-custom-schema-other-than-public-in-postgresql/)
 - [Kỹ thuật đồng bộ, bất đồng bộ trong ajax](https://dothanhlong.org/ky-thuat-dong-bo-bat-dong-bo-trong-ajax/)
 - [How to redirect HTTP to HTTPS Using .htaccess](https://dothanhlong.org/how-to-redirect-http-to-https-using-htaccess/)
-- [Hướng dẫn Tileserver T-rex](https://dothanhlong.org/huong-dan-tileserver-t-rex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

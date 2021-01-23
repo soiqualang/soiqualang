@@ -60,6 +60,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Hướng dẫn tippecanoe](https://dothanhlong.org/huong-dan-tippecanoe/)
+- [As of Monday, February 1, 2021, the free Yahoo Weather API will be retired](https://dothanhlong.org/as-of-monday-february-1-2021-the-free-yahoo-weather-api-will-be-retired/)
 - [Tại sao các dev thường ghét PHP?](https://dothanhlong.org/tai-sao-cac-dev-thuong-ghet-php/)
 - [[Papper] Development of an extension of GeoServer for handling 3D spatial data](https://dothanhlong.org/papper-development-of-an-extension-of-geoserver-for-handling-3d-spatial-data/)
 - [[Paper] Visualization of 3D Survey Data for Strata Titles](https://dothanhlong.org/paper-visualization-of-3d-survey-data-for-strata-titles/)
@@ -73,8 +75,6 @@
 - [Bài thi thử python](https://dothanhlong.org/bai-thi-thu-python/)
 - [Hướng dẫn docker toàn tập](https://dothanhlong.org/huong-dan-docker-toan-tap/)
 - [Add PostGIS spatial functions to a custom schema other than “public” in PostgreSQL](https://dothanhlong.org/add-postgis-spatial-functions-to-a-custom-schema-other-than-public-in-postgresql/)
-- [Kỹ thuật đồng bộ, bất đồng bộ trong ajax](https://dothanhlong.org/ky-thuat-dong-bo-bat-dong-bo-trong-ajax/)
-- [How to redirect HTTP to HTTPS Using .htaccess](https://dothanhlong.org/how-to-redirect-http-to-https-using-htaccess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

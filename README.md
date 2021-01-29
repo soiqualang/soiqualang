@@ -19,7 +19,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Alan Turing the father of computer science, artificial intelligence and who helped break German WW2 cyphers, committed suicide after being forced to undergo hormonal treatment for homosexuality and barred from continuing his cryptographic work.❞</i>
+<i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

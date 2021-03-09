@@ -40,7 +40,9 @@
 - **Tools:** 
 [raster cutting](https://github.com/soiqualang/raster_cutting) | 
 [Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3) | 
-[pyQGIS Export layers as image files](https://github.com/soiqualang/test_pyQGIS)
+[pyQGIS Export layers as image files](https://github.com/soiqualang/test_pyQGIS) | 
+[Download Youtube video](https://github.com/soiqualang/TYoutube) | 
+[GeoJson to Mbtiles](https://github.com/soiqualang/geojson2mbtiles)
 - **Services:** 
 [crazy english](https://github.com/soiqualang/crazy_english) | 
 [Get client info](https://github.com/soiqualang/api4client_info)

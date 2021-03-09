@@ -60,6 +60,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cách truy cập vào docker shell](https://dothanhlong.org/cach-truy-cap-vao-docker-shell/)
+- [Run batch file in background](https://dothanhlong.org/run-batch-file-in-background/)
+- [How To Detect Crop Rows with Python Scikit Image](https://dothanhlong.org/how-to-detect-crop-rows-with-python-scikit-image/)
 - [Convert DSM to DTM](https://dothanhlong.org/convert-dsm-to-dtm/)
 - [Hướng dẫn tippecanoe](https://dothanhlong.org/huong-dan-tippecanoe/)
 - [As of Monday, February 1, 2021, the free Yahoo Weather API will be retired](https://dothanhlong.org/as-of-monday-february-1-2021-the-free-yahoo-weather-api-will-be-retired/)
@@ -72,9 +75,6 @@
 - [Hướng dẫn cơ bản với MySQL – Thiết kế Database](https://dothanhlong.org/huong-dan-co-ban-voi-mysql-thiet-ke-database/)
 - [Deprecated HTML Tag List](https://dothanhlong.org/deprecated-html-tag-list/)
 - [Sentinel 2 Atmospheric Correction in Google Earth Engine](https://dothanhlong.org/sentinel-2-atmospheric-correction-in-google-earth-engine/)
-- [[python] Tool để download, transcript Youtube by soiqualang](https://dothanhlong.org/python-tool-de-download-transcript-youtube-by-soiqualang/)
-- [Bài thi thử python](https://dothanhlong.org/bai-thi-thu-python/)
-- [Hướng dẫn docker toàn tập](https://dothanhlong.org/huong-dan-docker-toan-tap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

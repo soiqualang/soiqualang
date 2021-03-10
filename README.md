@@ -62,6 +62,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive CSS Wardrobe](https://dothanhlong.org/responsive-css-wardrobe/)
 - [Cách truy cập vào docker shell](https://dothanhlong.org/cach-truy-cap-vao-docker-shell/)
 - [Run batch file in background](https://dothanhlong.org/run-batch-file-in-background/)
 - [How To Detect Crop Rows with Python Scikit Image](https://dothanhlong.org/how-to-detect-crop-rows-with-python-scikit-image/)
@@ -76,7 +77,6 @@
 - [Fix lỗi The Windows Subsystem for Linux optional component is not enabled](https://dothanhlong.org/fix-loi-the-windows-subsystem-for-linux-optional-component-is-not-enabled/)
 - [Hướng dẫn cơ bản với MySQL – Thiết kế Database](https://dothanhlong.org/huong-dan-co-ban-voi-mysql-thiet-ke-database/)
 - [Deprecated HTML Tag List](https://dothanhlong.org/deprecated-html-tag-list/)
-- [Sentinel 2 Atmospheric Correction in Google Earth Engine](https://dothanhlong.org/sentinel-2-atmospheric-correction-in-google-earth-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -62,6 +62,10 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Jupyter python with conda, pip](https://dothanhlong.org/install-jupyter-python-with-conda-pip/)
+- [Linux – Cài Conda](https://dothanhlong.org/linux-cai-conda/)
+- [[Linux] Restart PostgreSQL v10.x](https://dothanhlong.org/linux-restart-postgresql-v10-x/)
+- [PostgreSQL cast to character varying](https://dothanhlong.org/postgresql-cast-to-character-varying/)
 - [RICE MAPPING WITH SENTINEL-1 Case Study: Vietnam, 2018](https://dothanhlong.org/rice-mapping-with-sentinel-1-case-study-vietnam-2018/)
 - [Practical Session: 4 Exercise – GPT (Graph processing Tool)](https://dothanhlong.org/practical-session-4-exercise-gpt-graph-processing-tool/)
 - [Responsive CSS Wardrobe](https://dothanhlong.org/responsive-css-wardrobe/)
@@ -73,10 +77,6 @@
 - [Tại sao các dev thường ghét PHP?](https://dothanhlong.org/tai-sao-cac-dev-thuong-ghet-php/)
 - [[Papper] Development of an extension of GeoServer for handling 3D spatial data](https://dothanhlong.org/papper-development-of-an-extension-of-geoserver-for-handling-3d-spatial-data/)
 - [[Paper] Visualization of 3D Survey Data for Strata Titles](https://dothanhlong.org/paper-visualization-of-3d-survey-data-for-strata-titles/)
-- [T-Youtube – Tool download video, mp3 từ Youtube](https://dothanhlong.org/t-youtube-tool-download-video-mp3-tu-youtube/)
-- [Tạo ứng dụng Docker đầu tiên – Build Docker by soiqualang](https://dothanhlong.org/tao-ung-dung-docker-dau-tien-build-docker-by-soiqualang/)
-- [Fix lỗi The Windows Subsystem for Linux optional component is not enabled](https://dothanhlong.org/fix-loi-the-windows-subsystem-for-linux-optional-component-is-not-enabled/)
-- [Hướng dẫn cơ bản với MySQL – Thiết kế Database](https://dothanhlong.org/huong-dan-co-ban-voi-mysql-thiet-ke-database/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

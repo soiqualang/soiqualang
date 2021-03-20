@@ -62,6 +62,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Increase swapfile in Ubuntu](https://dothanhlong.org/increase-swapfile-in-ubuntu/)
 - [Install Jupyter python with conda, pip](https://dothanhlong.org/install-jupyter-python-with-conda-pip/)
 - [Linux – Cài Conda](https://dothanhlong.org/linux-cai-conda/)
 - [[Linux] Restart PostgreSQL v10.x](https://dothanhlong.org/linux-restart-postgresql-v10-x/)
@@ -76,7 +77,6 @@
 - [As of Monday, February 1, 2021, the free Yahoo Weather API will be retired](https://dothanhlong.org/as-of-monday-february-1-2021-the-free-yahoo-weather-api-will-be-retired/)
 - [Tại sao các dev thường ghét PHP?](https://dothanhlong.org/tai-sao-cac-dev-thuong-ghet-php/)
 - [[Papper] Development of an extension of GeoServer for handling 3D spatial data](https://dothanhlong.org/papper-development-of-an-extension-of-geoserver-for-handling-3d-spatial-data/)
-- [[Paper] Visualization of 3D Survey Data for Strata Titles](https://dothanhlong.org/paper-visualization-of-3d-survey-data-for-strata-titles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

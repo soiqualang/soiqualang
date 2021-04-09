@@ -62,6 +62,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [IONIC – ERR_NO_DEVICE: No hardware devices found](https://dothanhlong.org/ionic-err_no_device-no-hardware-devices-found/)
+- [Update ADB – Android Emulator](https://dothanhlong.org/update-adb-android-emulator/)
+- [GitHub Packages (github docker)](https://dothanhlong.org/github-packages-github-docker/)
 - [Cách cài Docker trên Linux (2021)](https://dothanhlong.org/cach-cai-docker-tren-linux-2021/)
 - [Increase swapfile in Ubuntu](https://dothanhlong.org/increase-swapfile-in-ubuntu/)
 - [Install Jupyter python with conda, pip](https://dothanhlong.org/install-jupyter-python-with-conda-pip/)
@@ -74,9 +77,6 @@
 - [Cách truy cập vào docker shell](https://dothanhlong.org/cach-truy-cap-vao-docker-shell/)
 - [Run batch file in background](https://dothanhlong.org/run-batch-file-in-background/)
 - [Convert DSM to DTM](https://dothanhlong.org/convert-dsm-to-dtm/)
-- [Hướng dẫn tippecanoe](https://dothanhlong.org/huong-dan-tippecanoe/)
-- [As of Monday, February 1, 2021, the free Yahoo Weather API will be retired](https://dothanhlong.org/as-of-monday-february-1-2021-the-free-yahoo-weather-api-will-be-retired/)
-- [Tại sao các dev thường ghét PHP?](https://dothanhlong.org/tai-sao-cac-dev-thuong-ghet-php/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

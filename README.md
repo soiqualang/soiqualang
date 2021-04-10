@@ -62,6 +62,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tìm hiểu về Apache Solr](https://dothanhlong.org/tim-hieu-ve-apache-solr/)
 - [IONIC – ERR_NO_DEVICE: No hardware devices found](https://dothanhlong.org/ionic-err_no_device-no-hardware-devices-found/)
 - [Update ADB – Android Emulator](https://dothanhlong.org/update-adb-android-emulator/)
 - [GitHub Packages (github docker)](https://dothanhlong.org/github-packages-github-docker/)
@@ -76,7 +77,6 @@
 - [Responsive CSS Wardrobe](https://dothanhlong.org/responsive-css-wardrobe/)
 - [Cách truy cập vào docker shell](https://dothanhlong.org/cach-truy-cap-vao-docker-shell/)
 - [Run batch file in background](https://dothanhlong.org/run-batch-file-in-background/)
-- [Convert DSM to DTM](https://dothanhlong.org/convert-dsm-to-dtm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

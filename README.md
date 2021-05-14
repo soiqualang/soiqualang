@@ -62,6 +62,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [So sánh tốc độ truy vấn giữa PostgreSQL Table, View, materialized Views](https://dothanhlong.org/so-sanh-toc-do-truy-van-giua-postgresql-table-view-materialized-views/)
 - [Advanced Map Exploration](https://dothanhlong.org/advanced-map-exploration/)
 - [3 Ways To Go Above & Beyond With Analytics](https://dothanhlong.org/3-ways-to-go-above-beyond-with-analytics/)
 - [VMware Workstation can be run after disabling Device – Credential Guard](https://dothanhlong.org/vmware-workstation-can-be-run-after-disabling-device-credential-guard/)
@@ -76,7 +77,6 @@
 - [6 trình soạn thảo và chuyển đổi Markdown trực tuyến miễn phí tốt nhất](https://dothanhlong.org/6-trinh-soan-thao-va-chuyen-doi-markdown-truc-tuyen-mien-phi-tot-nhat/)
 - [Tìm hiểu về Apache Solr](https://dothanhlong.org/tim-hieu-ve-apache-solr/)
 - [IONIC – ERR_NO_DEVICE: No hardware devices found](https://dothanhlong.org/ionic-err_no_device-no-hardware-devices-found/)
-- [Update ADB – Android Emulator](https://dothanhlong.org/update-adb-android-emulator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

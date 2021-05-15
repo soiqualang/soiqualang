@@ -62,6 +62,10 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [BẮT ĐẦU VỚI HADOOP](https://dothanhlong.org/bat-dau-voi-hadoop/)
+- [BẮT ĐẦU VỚI BIG DATA](https://dothanhlong.org/bat-dau-voi-big-data/)
+- [TỔNG QUAN VỀ NOSQL](https://dothanhlong.org/tong-quan-ve-nosql/)
+- [Note một số đặc điểm của PostgreSQL](https://dothanhlong.org/note-mot-so-dac-diem-cua-postgresql/)
 - [So sánh tốc độ truy vấn giữa PostgreSQL Table, View, materialized Views](https://dothanhlong.org/so-sanh-toc-do-truy-van-giua-postgresql-table-view-materialized-views/)
 - [Advanced Map Exploration](https://dothanhlong.org/advanced-map-exploration/)
 - [3 Ways To Go Above & Beyond With Analytics](https://dothanhlong.org/3-ways-to-go-above-beyond-with-analytics/)
@@ -73,10 +77,6 @@
 - [Summarize and explore point clusters in web apps](https://dothanhlong.org/summarize-and-explore-point-clusters-in-web-apps/)
 - [Web APIs – Một số Web APIs khá thú vị mà bạn nên thử](https://dothanhlong.org/web-apis-mot-so-web-apis-kha-thu-vi-ma-ban-nen-thu/)
 - [Danh sách API cho lập trình viên thực hành khi học](https://dothanhlong.org/danh-sach-api-cho-lap-trinh-vien-thuc-hanh-khi-hoc/)
-- [Các nguồn để fake và tạo mock data hữu hiệu](https://dothanhlong.org/cac-nguon-de-fake-va-tao-mock-data-huu-hieu/)
-- [6 trình soạn thảo và chuyển đổi Markdown trực tuyến miễn phí tốt nhất](https://dothanhlong.org/6-trinh-soan-thao-va-chuyen-doi-markdown-truc-tuyen-mien-phi-tot-nhat/)
-- [Tìm hiểu về Apache Solr](https://dothanhlong.org/tim-hieu-ve-apache-solr/)
-- [IONIC – ERR_NO_DEVICE: No hardware devices found](https://dothanhlong.org/ionic-err_no_device-no-hardware-devices-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

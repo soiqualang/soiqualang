@@ -62,6 +62,10 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome GIS](https://dothanhlong.org/awesome-gis/)
+- [A Look at Google Earth Engine](https://dothanhlong.org/a-look-at-google-earth-engine/)
+- [Open Source GIS and Freeware GIS Applications](https://dothanhlong.org/open-source-gis-and-freeware-gis-applications/)
+- [Cách xem lại log file của PostgreSQL](https://dothanhlong.org/cach-xem-lai-log-file-cua-postgresql/)
 - [BẮT ĐẦU VỚI HADOOP](https://dothanhlong.org/bat-dau-voi-hadoop/)
 - [BẮT ĐẦU VỚI BIG DATA](https://dothanhlong.org/bat-dau-voi-big-data/)
 - [TỔNG QUAN VỀ NOSQL](https://dothanhlong.org/tong-quan-ve-nosql/)
@@ -73,10 +77,6 @@
 - [Nghệ thuật xử lý background job](https://dothanhlong.org/nghe-thuat-xu-ly-background-job/)
 - [Hệ thống analytic “sương sương” từ dữ liệu 30 triệu người dùng](https://dothanhlong.org/he-thong-analytic-suong-suong-tu-du-lieu-30-trieu-nguoi-dung/)
 - [Thử nghiệm Stacks Image WMS](https://dothanhlong.org/thu-nghiem-stacks-image-wms/)
-- [Docker image in production – câu chuyện 1GB hay 100MB](https://dothanhlong.org/docker-image-in-production-cau-chuyen-1gb-hay-100mb/)
-- [Summarize and explore point clusters in web apps](https://dothanhlong.org/summarize-and-explore-point-clusters-in-web-apps/)
-- [Web APIs – Một số Web APIs khá thú vị mà bạn nên thử](https://dothanhlong.org/web-apis-mot-so-web-apis-kha-thu-vi-ma-ban-nen-thu/)
-- [Danh sách API cho lập trình viên thực hành khi học](https://dothanhlong.org/danh-sach-api-cho-lap-trinh-vien-thuc-hanh-khi-hoc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

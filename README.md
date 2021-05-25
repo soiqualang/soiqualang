@@ -62,6 +62,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Transfer Your App From One Apple Developer Account To Another](https://dothanhlong.org/how-to-transfer-your-app-from-one-apple-developer-account-to-another/)
 - [So sánh tốc độ DNS 1.1.1.1 của CloudFlare và DNS 8.8.8.8 Google](https://dothanhlong.org/so-sanh-toc-do-dns-1-1-1-1-cua-cloudflare-va-dns-8-8-8-8-google/)
 - [Awesome GIS](https://dothanhlong.org/awesome-gis/)
 - [A Look at Google Earth Engine](https://dothanhlong.org/a-look-at-google-earth-engine/)
@@ -76,7 +77,6 @@
 - [3 Ways To Go Above & Beyond With Analytics](https://dothanhlong.org/3-ways-to-go-above-beyond-with-analytics/)
 - [VMware Workstation can be run after disabling Device – Credential Guard](https://dothanhlong.org/vmware-workstation-can-be-run-after-disabling-device-credential-guard/)
 - [Nghệ thuật xử lý background job](https://dothanhlong.org/nghe-thuat-xu-ly-background-job/)
-- [Hệ thống analytic “sương sương” từ dữ liệu 30 triệu người dùng](https://dothanhlong.org/he-thong-analytic-suong-suong-tu-du-lieu-30-trieu-nguoi-dung/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

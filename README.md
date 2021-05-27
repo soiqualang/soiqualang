@@ -62,6 +62,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[GeoServer] Fix lỗi Cannot find current JDK installation 2021](https://dothanhlong.org/geoserver-fix-loi-cannot-find-current-jdk-installation-2021/)
+- [VIẾT LẠI TRUY VẤN ĐỂ SỬ DỤNG KHUNG NHÌN THỰC CÓ HÀM THỐNG KÊ TRONG POSTGRESQL](https://dothanhlong.org/viet-lai-truy-van-de-su-dung-khung-nhin-thuc-co-ham-thong-ke-trong-postgresql/)
 - [How To Transfer Your App From One Apple Developer Account To Another](https://dothanhlong.org/how-to-transfer-your-app-from-one-apple-developer-account-to-another/)
 - [So sánh tốc độ DNS 1.1.1.1 của CloudFlare và DNS 8.8.8.8 Google](https://dothanhlong.org/so-sanh-toc-do-dns-1-1-1-1-cua-cloudflare-va-dns-8-8-8-8-google/)
 - [Awesome GIS](https://dothanhlong.org/awesome-gis/)
@@ -75,8 +77,6 @@
 - [So sánh tốc độ truy vấn giữa PostgreSQL Table, View, materialized Views](https://dothanhlong.org/so-sanh-toc-do-truy-van-giua-postgresql-table-view-materialized-views/)
 - [Advanced Map Exploration](https://dothanhlong.org/advanced-map-exploration/)
 - [3 Ways To Go Above & Beyond With Analytics](https://dothanhlong.org/3-ways-to-go-above-beyond-with-analytics/)
-- [VMware Workstation can be run after disabling Device – Credential Guard](https://dothanhlong.org/vmware-workstation-can-be-run-after-disabling-device-credential-guard/)
-- [Nghệ thuật xử lý background job](https://dothanhlong.org/nghe-thuat-xu-ly-background-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

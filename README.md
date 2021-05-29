@@ -62,6 +62,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lỗi 500 proxy vhost Apache](https://dothanhlong.org/loi-500-proxy-vhost-apache/)
+- [Notes về Mapbox](https://dothanhlong.org/notes-ve-mapbox/)
+- [Bật / Tắt thông báo lỗi trong PHP](https://dothanhlong.org/bat-tat-thong-bao-loi-trong-php/)
 - [[GeoServer] Fix lỗi Cannot find current JDK installation 2021](https://dothanhlong.org/geoserver-fix-loi-cannot-find-current-jdk-installation-2021/)
 - [VIẾT LẠI TRUY VẤN ĐỂ SỬ DỤNG KHUNG NHÌN THỰC CÓ HÀM THỐNG KÊ TRONG POSTGRESQL](https://dothanhlong.org/viet-lai-truy-van-de-su-dung-khung-nhin-thuc-co-ham-thong-ke-trong-postgresql/)
 - [How To Transfer Your App From One Apple Developer Account To Another](https://dothanhlong.org/how-to-transfer-your-app-from-one-apple-developer-account-to-another/)
@@ -74,9 +77,6 @@
 - [BẮT ĐẦU VỚI BIG DATA](https://dothanhlong.org/bat-dau-voi-big-data/)
 - [TỔNG QUAN VỀ NOSQL](https://dothanhlong.org/tong-quan-ve-nosql/)
 - [Note một số đặc điểm của PostgreSQL](https://dothanhlong.org/note-mot-so-dac-diem-cua-postgresql/)
-- [So sánh tốc độ truy vấn giữa PostgreSQL Table, View, materialized Views](https://dothanhlong.org/so-sanh-toc-do-truy-van-giua-postgresql-table-view-materialized-views/)
-- [Advanced Map Exploration](https://dothanhlong.org/advanced-map-exploration/)
-- [3 Ways To Go Above & Beyond With Analytics](https://dothanhlong.org/3-ways-to-go-above-beyond-with-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -62,6 +62,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Javascript] Array get first n elements](https://dothanhlong.org/javascript-array-get-first-n-elements/)
 - [Lỗi 500 proxy vhost Apache](https://dothanhlong.org/loi-500-proxy-vhost-apache/)
 - [Notes về Mapbox](https://dothanhlong.org/notes-ve-mapbox/)
 - [Bật / Tắt thông báo lỗi trong PHP](https://dothanhlong.org/bat-tat-thong-bao-loi-trong-php/)
@@ -76,7 +77,6 @@
 - [BẮT ĐẦU VỚI HADOOP](https://dothanhlong.org/bat-dau-voi-hadoop/)
 - [BẮT ĐẦU VỚI BIG DATA](https://dothanhlong.org/bat-dau-voi-big-data/)
 - [TỔNG QUAN VỀ NOSQL](https://dothanhlong.org/tong-quan-ve-nosql/)
-- [Note một số đặc điểm của PostgreSQL](https://dothanhlong.org/note-mot-so-dac-diem-cua-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

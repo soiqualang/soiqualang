@@ -19,7 +19,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

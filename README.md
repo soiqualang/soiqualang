@@ -62,6 +62,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux bash shell addition, subtraction, multiplication and division](https://dothanhlong.org/linux-bash-shell-addition-subtraction-multiplication-and-division/)
+- [Lỗi Java, Android SDK path](https://dothanhlong.org/loi-java-android-sdk-path/)
 - [Install GDAL on Linux 2021](https://dothanhlong.org/install-gdal-on-linux-2021/)
 - [Lỗi /bin/bash^M: bad interpreter: No such file or directory](https://dothanhlong.org/loi-bin-bashm-bad-interpreter-no-such-file-or-directory/)
 - [Sưu tầm một số Visual Studio Code Extension hay](https://dothanhlong.org/suu-tam-mot-so-visual-studio-code-extension-hay/)
@@ -75,8 +77,6 @@
 - [Postgresql cast array text to array](https://dothanhlong.org/postgresql-cast-array-text-to-array/)
 - [Warp 1.1.1.1 và Cloudflare teams](https://dothanhlong.org/warp-1-1-1-1-va-cloudflare-teams/)
 - [How can I convert a series of images to a PDF from the command line on linux?](https://dothanhlong.org/how-can-i-convert-a-series-of-images-to-a-pdf-from-the-command-line-on-linux/)
-- [Linux instal GDAL, OGR tools](https://dothanhlong.org/linux-instal-gdal-ogr-tools/)
-- [Sưu tầm Hợp âm, tab số EVERYONE PIANO](https://dothanhlong.org/suu-tam-hop-am-tab-so-everyone-piano/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

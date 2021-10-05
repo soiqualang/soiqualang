@@ -49,8 +49,8 @@
 [Get client info](https://github.com/soiqualang/api4client_info) | 
 [Random IMG](https://api.dothanhlong.org/api4img?imgsize=200) | 
 [Random IMG Base64](https://api.dothanhlong.org/api4img?imgsize=200&base64) | 
-[geocode get point](https://api.dothanhlong.org/api4geocode/geocoding/?t=osm&p=1&q=nhà thờ Đức Bà, Hồ Chí Minh) | 
-[geocode get polygon](https://api.dothanhlong.org/api4geocode/geocoding?t=osm&q=nhà thờ Đức Bà, Hồ Chí Minh) | 
+[geocode get point](https://api.dothanhlong.org/api4geocode/geocoding/?t=osm&p=1&q=nhà%20thờ%20Đức%20Bà,%20Hồ%20Chí%20Minh) | 
+[geocode get polygon](https://api.dothanhlong.org/api4geocode/geocoding/?t=osm&q=nhà%20thờ%20Đức%20Bà,%20Hồ%20Chí%20Minh) | 
 [reverse geocode](https://api.dothanhlong.org/api4geocode/reverse?t=osm&lat=18.6583811&lon=105.6950847) | 
 [Vùng tiếp cận](https://api.dothanhlong.org/api4gis/?driving&pisochrones&lat=10.78866402050739&lon=106.68716916275118&timerange=120) | 
 [api4translate](https://api.dothanhlong.org/api4translate/?q=Pressure&f=en-US&t=vi) | 

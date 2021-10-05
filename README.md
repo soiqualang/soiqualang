@@ -36,7 +36,8 @@
 - **Leaflet:** 
 [Leaflet label collision](https://github.com/soiqualang/label_collision_leaflet_v2)
 - **Webapp:** 
-[Vietnam maps history](https://github.com/soiqualang/Vietnam_map_history)
+[Vietnam maps history](https://github.com/soiqualang/Vietnam_map_history) | 
+[tQuotes](https://soiqualang.github.io/tQuotes/)
 - **Tools:** 
 [raster cutting](https://github.com/soiqualang/raster_cutting) | 
 [Python function for Sqlite](https://github.com/soiqualang/Py4Sqlite3) | 
@@ -45,7 +46,16 @@
 [GeoJson to Mbtiles](https://github.com/soiqualang/geojson2mbtiles)
 - **Services:** 
 [crazy english](https://github.com/soiqualang/crazy_english) | 
-[Get client info](https://github.com/soiqualang/api4client_info)
+[Get client info](https://github.com/soiqualang/api4client_info) | 
+[Random IMG](https://api.dothanhlong.org/api4img?imgsize=200) | 
+[Random IMG Base64](https://api.dothanhlong.org/api4img?imgsize=200&base64) | 
+[geocode get point](https://api.dothanhlong.org/api4geocode/geocoding/?t=osm&p=1&q=nhà thờ Đức Bà, Hồ Chí Minh) | 
+[geocode get polygon](https://api.dothanhlong.org/api4geocode/geocoding?t=osm&q=nhà thờ Đức Bà, Hồ Chí Minh) | 
+[reverse geocode](https://api.dothanhlong.org/api4geocode/reverse?t=osm&lat=18.6583811&lon=105.6950847) | 
+[Vùng tiếp cận](https://api.dothanhlong.org/api4gis/?driving&pisochrones&lat=10.78866402050739&lon=106.68716916275118&timerange=120) | 
+[api4translate](https://api.dothanhlong.org/api4translate/?q=Pressure&f=en-US&t=vi) | 
+[api4weather](https://api.dothanhlong.org/api4weather/?v2&lat=14.56&lon=108.7) | 
+[blog feed](http://s1.dothanhlong.org:10025/myblogfeed)
 
 
 <!--

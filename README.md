@@ -72,6 +72,13 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Android] Granting WRITE_SECURE_SETTINGS permission via ADB](https://dothanhlong.org/android-granting-write_secure_settings-permission-via-adb/)
+- [[Android] ADB – Format SD card to use as Internal Storage](https://dothanhlong.org/android-adb-format-sd-card-to-use-as-internal-storage/)
+- [Cài OpenSSH Window](https://dothanhlong.org/cai-openssh-window/)
+- [Linux Add User](https://dothanhlong.org/linux-add-user/)
+- [Lỗi VPN A connection to the remote computer could not be established](https://dothanhlong.org/loi-vpn-a-connection-to-the-remote-computer-could-not-be-established/)
+- [Cách tăng âm lượng cho loa máy tính](https://dothanhlong.org/cach-tang-am-luong-cho-loa-may-tinh/)
+- [Cách giảm dung lượng thư mục .git](https://dothanhlong.org/cach-giam-dung-luong-thu-muc-git/)
 - [Linux bash shell addition, subtraction, multiplication and division](https://dothanhlong.org/linux-bash-shell-addition-subtraction-multiplication-and-division/)
 - [Lỗi Java, Android SDK path](https://dothanhlong.org/loi-java-android-sdk-path/)
 - [Install GDAL on Linux 2021](https://dothanhlong.org/install-gdal-on-linux-2021/)
@@ -80,13 +87,6 @@
 - [Fix GeoServer CORS policy](https://dothanhlong.org/fix-geoserver-cors-policy/)
 - [Javascript – Đảo ngược mảng Array](https://dothanhlong.org/javascript-dao-nguoc-mang-array/)
 - [Excel hiện phép tính thay vì kết quả phép tính](https://dothanhlong.org/excel-hien-phep-tinh-thay-vi-ket-qua-phep-tinh/)
-- [Summing a column, filtered based on another column in Google Spreadsheet](https://dothanhlong.org/summing-a-column-filtered-based-on-another-column-in-google-spreadsheet/)
-- [Fix WordPress Updating Failed – Publishing failed. You are probably offline](https://dothanhlong.org/fix-wordpress-updating-failed-publishing-failed-you-are-probably-offline/)
-- [Phần mềm nén ảnh hàng loạt – Caesium Image Compressor](https://dothanhlong.org/phan-mem-nen-anh-hang-loat-caesium-image-compressor/)
-- [Openrouteservice API services](https://dothanhlong.org/openrouteservice-api-services/)
-- [Postgresql cast array text to array](https://dothanhlong.org/postgresql-cast-array-text-to-array/)
-- [Warp 1.1.1.1 và Cloudflare teams](https://dothanhlong.org/warp-1-1-1-1-va-cloudflare-teams/)
-- [How can I convert a series of images to a PDF from the command line on linux?](https://dothanhlong.org/how-can-i-convert-a-series-of-images-to-a-pdf-from-the-command-line-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -72,6 +72,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Apple Developer] Không gia hạn tài khoản Apple Developer thì các app của mình sẽ như thế nào?](https://dothanhlong.org/apple-developer-khong-gia-han-tai-khoan-apple-developer-thi-cac-app-cua-minh-se-nhu-the-nao/)
 - [[Android] Granting WRITE_SECURE_SETTINGS permission via ADB](https://dothanhlong.org/android-granting-write_secure_settings-permission-via-adb/)
 - [[Android] ADB – Format SD card to use as Internal Storage](https://dothanhlong.org/android-adb-format-sd-card-to-use-as-internal-storage/)
 - [Cài OpenSSH Window](https://dothanhlong.org/cai-openssh-window/)
@@ -86,7 +87,6 @@
 - [Sưu tầm một số Visual Studio Code Extension hay](https://dothanhlong.org/suu-tam-mot-so-visual-studio-code-extension-hay/)
 - [Fix GeoServer CORS policy](https://dothanhlong.org/fix-geoserver-cors-policy/)
 - [Javascript – Đảo ngược mảng Array](https://dothanhlong.org/javascript-dao-nguoc-mang-array/)
-- [Excel hiện phép tính thay vì kết quả phép tính](https://dothanhlong.org/excel-hien-phep-tinh-thay-vi-ket-qua-phep-tinh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

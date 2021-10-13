@@ -72,6 +72,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [GeoServer set JAVA_HOME manually](https://dothanhlong.org/geoserver-set-java_home-manually/)
+- [PostgreSQL Window – Tạo Password File để dùng pg_dump](https://dothanhlong.org/postgresql-window-tao-password-file-de-dung-pg_dump/)
 - [[Apple Developer] Không gia hạn tài khoản Apple Developer thì các app của mình sẽ như thế nào?](https://dothanhlong.org/apple-developer-khong-gia-han-tai-khoan-apple-developer-thi-cac-app-cua-minh-se-nhu-the-nao/)
 - [[Android] Granting WRITE_SECURE_SETTINGS permission via ADB](https://dothanhlong.org/android-granting-write_secure_settings-permission-via-adb/)
 - [[Android] ADB – Format SD card to use as Internal Storage](https://dothanhlong.org/android-adb-format-sd-card-to-use-as-internal-storage/)
@@ -85,8 +87,6 @@
 - [Install GDAL on Linux 2021](https://dothanhlong.org/install-gdal-on-linux-2021/)
 - [Lỗi /bin/bash^M: bad interpreter: No such file or directory](https://dothanhlong.org/loi-bin-bashm-bad-interpreter-no-such-file-or-directory/)
 - [Sưu tầm một số Visual Studio Code Extension hay](https://dothanhlong.org/suu-tam-mot-so-visual-studio-code-extension-hay/)
-- [Fix GeoServer CORS policy](https://dothanhlong.org/fix-geoserver-cors-policy/)
-- [Javascript – Đảo ngược mảng Array](https://dothanhlong.org/javascript-dao-nguoc-mang-array/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

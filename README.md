@@ -72,6 +72,11 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
+- [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
+- [Lỗi cài npm : Depends: node-gyp (>= 0.10.9) but it is not going to be installed](https://dothanhlong.org/loi-cai-npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed/)
+- [How to kill a process running on particular port in Linux?](https://dothanhlong.org/how-to-kill-a-process-running-on-particular-port-in-linux/)
+- [Clip MBTiles with BoundingBox](https://dothanhlong.org/clip-mbtiles-with-boundingbox/)
 - [GeoServer set JAVA_HOME manually](https://dothanhlong.org/geoserver-set-java_home-manually/)
 - [PostgreSQL Window – Tạo Password File để dùng pg_dump](https://dothanhlong.org/postgresql-window-tao-password-file-de-dung-pg_dump/)
 - [[Apple Developer] Không gia hạn tài khoản Apple Developer thì các app của mình sẽ như thế nào?](https://dothanhlong.org/apple-developer-khong-gia-han-tai-khoan-apple-developer-thi-cac-app-cua-minh-se-nhu-the-nao/)
@@ -82,11 +87,6 @@
 - [Lỗi VPN A connection to the remote computer could not be established](https://dothanhlong.org/loi-vpn-a-connection-to-the-remote-computer-could-not-be-established/)
 - [Cách tăng âm lượng cho loa máy tính](https://dothanhlong.org/cach-tang-am-luong-cho-loa-may-tinh/)
 - [Cách giảm dung lượng thư mục .git](https://dothanhlong.org/cach-giam-dung-luong-thu-muc-git/)
-- [Linux bash shell addition, subtraction, multiplication and division](https://dothanhlong.org/linux-bash-shell-addition-subtraction-multiplication-and-division/)
-- [Lỗi Java, Android SDK path](https://dothanhlong.org/loi-java-android-sdk-path/)
-- [Install GDAL on Linux 2021](https://dothanhlong.org/install-gdal-on-linux-2021/)
-- [Lỗi /bin/bash^M: bad interpreter: No such file or directory](https://dothanhlong.org/loi-bin-bashm-bad-interpreter-no-such-file-or-directory/)
-- [Sưu tầm một số Visual Studio Code Extension hay](https://dothanhlong.org/suu-tam-mot-so-visual-studio-code-extension-hay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

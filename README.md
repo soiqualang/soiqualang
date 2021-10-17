@@ -72,6 +72,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Tạo ảnh thumbnails với python](https://dothanhlong.org/tao-anh-thumbnails-voi-python/)
 - [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
 - [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
 - [Lỗi cài npm : Depends: node-gyp (>= 0.10.9) but it is not going to be installed](https://dothanhlong.org/loi-cai-npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed/)
@@ -86,7 +87,6 @@
 - [Linux Add User](https://dothanhlong.org/linux-add-user/)
 - [Lỗi VPN A connection to the remote computer could not be established](https://dothanhlong.org/loi-vpn-a-connection-to-the-remote-computer-could-not-be-established/)
 - [Cách tăng âm lượng cho loa máy tính](https://dothanhlong.org/cach-tang-am-luong-cho-loa-may-tinh/)
-- [Cách giảm dung lượng thư mục .git](https://dothanhlong.org/cach-giam-dung-luong-thu-muc-git/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

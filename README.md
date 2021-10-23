@@ -72,6 +72,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres convert empty string to NULL](https://dothanhlong.org/postgres-convert-empty-string-to-null/)
+- [PHP luôn báo Session expired, please login again](https://dothanhlong.org/php-luon-bao-session-expired-please-login-again/)
 - [Tạo ảnh thumbnails với python](https://dothanhlong.org/tao-anh-thumbnails-voi-python/)
 - [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
 - [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
@@ -85,8 +87,6 @@
 - [[Android] ADB – Format SD card to use as Internal Storage](https://dothanhlong.org/android-adb-format-sd-card-to-use-as-internal-storage/)
 - [Cài OpenSSH Window](https://dothanhlong.org/cai-openssh-window/)
 - [Linux Add User](https://dothanhlong.org/linux-add-user/)
-- [Lỗi VPN A connection to the remote computer could not be established](https://dothanhlong.org/loi-vpn-a-connection-to-the-remote-computer-could-not-be-established/)
-- [Cách tăng âm lượng cho loa máy tính](https://dothanhlong.org/cach-tang-am-luong-cho-loa-may-tinh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

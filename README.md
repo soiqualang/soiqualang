@@ -55,7 +55,8 @@
 [Vùng tiếp cận](https://api.dothanhlong.org/api4gis/?driving&pisochrones&lat=10.78866402050739&lon=106.68716916275118&timerange=120) | 
 [api4translate](https://api.dothanhlong.org/api4translate/?q=Pressure&f=en-US&t=vi) | 
 [api4weather](https://api.dothanhlong.org/api4weather/?v2&lat=14.56&lon=108.7) | 
-[blog feed](http://s1.dothanhlong.org:10025/myblogfeed)
+[blog feed](http://s1.dothanhlong.org:10025/myblogfeed) | 
+[HTTPS Proxy](https://vnexpress.net/gia-xang-dau-dong-loat-tang-manh-4377225.html)
 
 
 <!--

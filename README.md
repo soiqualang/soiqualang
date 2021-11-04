@@ -73,6 +73,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Android] Lỗi Unable to determine Android SDK directory khi build app bundle](https://dothanhlong.org/android-loi-unable-to-determine-android-sdk-directory-khi-build-app-bundle/)
+- [Update your target API level by November 1, 2021 – android 11 – API 30](https://dothanhlong.org/update-your-target-api-level-by-november-1-2021-android-11-api-30/)
+- [[Android] Cách Sign App bundle](https://dothanhlong.org/android-cach-sign-app-bundle/)
 - [Postgres convert empty string to NULL](https://dothanhlong.org/postgres-convert-empty-string-to-null/)
 - [PHP luôn báo Session expired, please login again](https://dothanhlong.org/php-luon-bao-session-expired-please-login-again/)
 - [Tạo ảnh thumbnails với python](https://dothanhlong.org/tao-anh-thumbnails-voi-python/)
@@ -85,9 +88,6 @@
 - [PostgreSQL Window – Tạo Password File để dùng pg_dump](https://dothanhlong.org/postgresql-window-tao-password-file-de-dung-pg_dump/)
 - [[Apple Developer] Không gia hạn tài khoản Apple Developer thì các app của mình sẽ như thế nào?](https://dothanhlong.org/apple-developer-khong-gia-han-tai-khoan-apple-developer-thi-cac-app-cua-minh-se-nhu-the-nao/)
 - [[Android] Granting WRITE_SECURE_SETTINGS permission via ADB](https://dothanhlong.org/android-granting-write_secure_settings-permission-via-adb/)
-- [[Android] ADB – Format SD card to use as Internal Storage](https://dothanhlong.org/android-adb-format-sd-card-to-use-as-internal-storage/)
-- [Cài OpenSSH Window](https://dothanhlong.org/cai-openssh-window/)
-- [Linux Add User](https://dothanhlong.org/linux-add-user/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

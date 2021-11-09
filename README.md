@@ -82,7 +82,7 @@
 - [Tạo ảnh thumbnails với python](https://dothanhlong.org/tao-anh-thumbnails-voi-python/)
 - [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
 - [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
-- [Lỗi cài npm : Depends: node-gyp (>= 0.10.9) but it is not going to be installed](https://dothanhlong.org/loi-cai-npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed/)
+- [Lỗi cài npm : Depends: node-gyp &lpar;&gt;= 0.10.9&rpar; but it is not going to be installed](https://dothanhlong.org/loi-cai-npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed/)
 - [How to kill a process running on particular port in Linux?](https://dothanhlong.org/how-to-kill-a-process-running-on-particular-port-in-linux/)
 - [Clip MBTiles with BoundingBox](https://dothanhlong.org/clip-mbtiles-with-boundingbox/)
 - [GeoServer set JAVA_HOME manually](https://dothanhlong.org/geoserver-set-java_home-manually/)

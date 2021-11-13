@@ -73,6 +73,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ignore tracked folder in git](https://dothanhlong.org/ignore-tracked-folder-in-git/)
+- [Tool Gia hạn thời gian dùng thử phần mềm Balsamiq](https://dothanhlong.org/tool-gia-han-thoi-gian-dung-thu-phan-mem-balsamiq/)
 - [Cách chuyển file PDF bị khóa sang Word – Convert Locked PDF to Word](https://dothanhlong.org/cach-chuyen-file-pdf-bi-khoa-sang-word-convert-locked-pdf-to-word/)
 - [[Android] Lỗi Unable to determine Android SDK directory khi build app bundle](https://dothanhlong.org/android-loi-unable-to-determine-android-sdk-directory-khi-build-app-bundle/)
 - [Update your target API level by November 1, 2021 – android 11 – API 30](https://dothanhlong.org/update-your-target-api-level-by-november-1-2021-android-11-api-30/)
@@ -86,8 +88,6 @@
 - [How to kill a process running on particular port in Linux?](https://dothanhlong.org/how-to-kill-a-process-running-on-particular-port-in-linux/)
 - [Clip MBTiles with BoundingBox](https://dothanhlong.org/clip-mbtiles-with-boundingbox/)
 - [GeoServer set JAVA_HOME manually](https://dothanhlong.org/geoserver-set-java_home-manually/)
-- [PostgreSQL Window – Tạo Password File để dùng pg_dump](https://dothanhlong.org/postgresql-window-tao-password-file-de-dung-pg_dump/)
-- [[Apple Developer] Không gia hạn tài khoản Apple Developer thì các app của mình sẽ như thế nào?](https://dothanhlong.org/apple-developer-khong-gia-han-tai-khoan-apple-developer-thi-cac-app-cua-minh-se-nhu-the-nao/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

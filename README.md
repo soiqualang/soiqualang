@@ -73,6 +73,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lỗi ADB không tìm thấy thiết bị hoặc adb server bị killed](https://dothanhlong.org/loi-adb-khong-tim-thay-thiet-bi-hoac-adb-server-bi-killed/)
+- [Python convert all video file in folder to mp4](https://dothanhlong.org/python-convert-all-video-file-in-folder-to-mp4/)
+- [Run saved game DraStic on No$GBA](https://dothanhlong.org/run-saved-game-drastic-on-nogba/)
 - [Ignore tracked folder in git](https://dothanhlong.org/ignore-tracked-folder-in-git/)
 - [Tool Gia hạn thời gian dùng thử phần mềm Balsamiq](https://dothanhlong.org/tool-gia-han-thoi-gian-dung-thu-phan-mem-balsamiq/)
 - [Cách chuyển file PDF bị khóa sang Word – Convert Locked PDF to Word](https://dothanhlong.org/cach-chuyen-file-pdf-bi-khoa-sang-word-convert-locked-pdf-to-word/)
@@ -85,9 +88,6 @@
 - [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
 - [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
 - [Lỗi cài npm : Depends: node-gyp &lpar;&gt;= 0.10.9&rpar; but it is not going to be installed](https://dothanhlong.org/loi-cai-npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed/)
-- [How to kill a process running on particular port in Linux?](https://dothanhlong.org/how-to-kill-a-process-running-on-particular-port-in-linux/)
-- [Clip MBTiles with BoundingBox](https://dothanhlong.org/clip-mbtiles-with-boundingbox/)
-- [GeoServer set JAVA_HOME manually](https://dothanhlong.org/geoserver-set-java_home-manually/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

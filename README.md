@@ -73,6 +73,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Using .htaccess to restrict access to Files and Directories](https://dothanhlong.org/using-htaccess-to-restrict-access-to-files-and-directories/)
 - [Lỗi ADB không tìm thấy thiết bị hoặc adb server bị killed](https://dothanhlong.org/loi-adb-khong-tim-thay-thiet-bi-hoac-adb-server-bi-killed/)
 - [Python convert all video file in folder to mp4](https://dothanhlong.org/python-convert-all-video-file-in-folder-to-mp4/)
 - [Run saved game DraStic on No$GBA](https://dothanhlong.org/run-saved-game-drastic-on-nogba/)
@@ -87,7 +88,6 @@
 - [Tạo ảnh thumbnails với python](https://dothanhlong.org/tao-anh-thumbnails-voi-python/)
 - [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
 - [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
-- [Lỗi cài npm : Depends: node-gyp &lpar;&gt;= 0.10.9&rpar; but it is not going to be installed](https://dothanhlong.org/loi-cai-npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

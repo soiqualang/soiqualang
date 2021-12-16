@@ -74,6 +74,10 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix pip install throwing “Permission Denied”](https://dothanhlong.org/fix-pip-install-throwing-permission-denied/)
+- [Sketch to Code](https://dothanhlong.org/sketch-to-code/)
+- [Nguồn Bản đồ Land Cover](https://dothanhlong.org/nguon-ban-do-land-cover/)
+- [[Sưu tầm] Chạy ứng dụng Flask với Gunicorn trên ubuntu](https://dothanhlong.org/suu-tam-chay-ung-dung-flask-voi-gunicorn-tren-ubuntu/)
 - [Using .htaccess to restrict access to Files and Directories](https://dothanhlong.org/using-htaccess-to-restrict-access-to-files-and-directories/)
 - [Lỗi ADB không tìm thấy thiết bị hoặc adb server bị killed](https://dothanhlong.org/loi-adb-khong-tim-thay-thiet-bi-hoac-adb-server-bi-killed/)
 - [Python convert all video file in folder to mp4](https://dothanhlong.org/python-convert-all-video-file-in-folder-to-mp4/)
@@ -85,10 +89,6 @@
 - [Update your target API level by November 1, 2021 – android 11 – API 30](https://dothanhlong.org/update-your-target-api-level-by-november-1-2021-android-11-api-30/)
 - [[Android] Cách Sign App bundle](https://dothanhlong.org/android-cach-sign-app-bundle/)
 - [Postgres convert empty string to NULL](https://dothanhlong.org/postgres-convert-empty-string-to-null/)
-- [PHP luôn báo Session expired, please login again](https://dothanhlong.org/php-luon-bao-session-expired-please-login-again/)
-- [Tạo ảnh thumbnails với python](https://dothanhlong.org/tao-anh-thumbnails-voi-python/)
-- [[Sưu tầm] Cách cài đặt PrettyMaps](https://dothanhlong.org/suu-tam-cach-cai-dat-prettymaps/)
-- [[Sưu tầm] prettymaps – tool tạo map art](https://dothanhlong.org/suu-tam-prettymaps-tool-tao-map-art/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

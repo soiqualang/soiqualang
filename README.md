@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix Unable to connect to PostgreSQL server: SCRAM authentication requires libpq version 10 or above](https://dothanhlong.org/fix-unable-to-connect-to-postgresql-server-scram-authentication-requires-libpq-version-10-or-above/)
 - [Fix pip install throwing “Permission Denied”](https://dothanhlong.org/fix-pip-install-throwing-permission-denied/)
 - [Sketch to Code](https://dothanhlong.org/sketch-to-code/)
 - [Nguồn Bản đồ Land Cover](https://dothanhlong.org/nguon-ban-do-land-cover/)
@@ -88,7 +89,6 @@
 - [[Android] Lỗi Unable to determine Android SDK directory khi build app bundle](https://dothanhlong.org/android-loi-unable-to-determine-android-sdk-directory-khi-build-app-bundle/)
 - [Update your target API level by November 1, 2021 – android 11 – API 30](https://dothanhlong.org/update-your-target-api-level-by-november-1-2021-android-11-api-30/)
 - [[Android] Cách Sign App bundle](https://dothanhlong.org/android-cach-sign-app-bundle/)
-- [Postgres convert empty string to NULL](https://dothanhlong.org/postgres-convert-empty-string-to-null/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Add VN2000 Projection in ArcGIS](https://dothanhlong.org/add-vn2000-projection-in-arcgis/)
 - [Fix Unable to connect to PostgreSQL server: SCRAM authentication requires libpq version 10 or above](https://dothanhlong.org/fix-unable-to-connect-to-postgresql-server-scram-authentication-requires-libpq-version-10-or-above/)
 - [Fix pip install throwing “Permission Denied”](https://dothanhlong.org/fix-pip-install-throwing-permission-denied/)
 - [Sketch to Code](https://dothanhlong.org/sketch-to-code/)
@@ -88,7 +89,6 @@
 - [Cách chuyển file PDF bị khóa sang Word – Convert Locked PDF to Word](https://dothanhlong.org/cach-chuyen-file-pdf-bi-khoa-sang-word-convert-locked-pdf-to-word/)
 - [[Android] Lỗi Unable to determine Android SDK directory khi build app bundle](https://dothanhlong.org/android-loi-unable-to-determine-android-sdk-directory-khi-build-app-bundle/)
 - [Update your target API level by November 1, 2021 – android 11 – API 30](https://dothanhlong.org/update-your-target-api-level-by-november-1-2021-android-11-api-30/)
-- [[Android] Cách Sign App bundle](https://dothanhlong.org/android-cach-sign-app-bundle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

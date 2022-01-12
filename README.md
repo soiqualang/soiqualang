@@ -74,6 +74,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Đồng bộ – Bất đồng bộ AngularJs](https://dothanhlong.org/dong-bo-bat-dong-bo-angularjs/)
+- [[Javascript] Tìm cụm từ trong object – How to filter JSON data by properties that contain certain strings?](https://dothanhlong.org/javascript-tim-cum-tu-trong-object-how-to-filter-json-data-by-properties-that-contain-certain-strings/)
 - [Add VN2000 Projection in ArcGIS](https://dothanhlong.org/add-vn2000-projection-in-arcgis/)
 - [Fix Unable to connect to PostgreSQL server: SCRAM authentication requires libpq version 10 or above](https://dothanhlong.org/fix-unable-to-connect-to-postgresql-server-scram-authentication-requires-libpq-version-10-or-above/)
 - [Fix pip install throwing “Permission Denied”](https://dothanhlong.org/fix-pip-install-throwing-permission-denied/)
@@ -87,8 +89,6 @@
 - [Ignore tracked folder in git](https://dothanhlong.org/ignore-tracked-folder-in-git/)
 - [Tool Gia hạn thời gian dùng thử phần mềm Balsamiq](https://dothanhlong.org/tool-gia-han-thoi-gian-dung-thu-phan-mem-balsamiq/)
 - [Cách chuyển file PDF bị khóa sang Word – Convert Locked PDF to Word](https://dothanhlong.org/cach-chuyen-file-pdf-bi-khoa-sang-word-convert-locked-pdf-to-word/)
-- [[Android] Lỗi Unable to determine Android SDK directory khi build app bundle](https://dothanhlong.org/android-loi-unable-to-determine-android-sdk-directory-khi-build-app-bundle/)
-- [Update your target API level by November 1, 2021 – android 11 – API 30](https://dothanhlong.org/update-your-target-api-level-by-november-1-2021-android-11-api-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

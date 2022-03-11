@@ -74,6 +74,10 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenStreetmap download building footprints](https://dothanhlong.org/openstreetmap-download-building-footprints/)
+- [Protected: Backup Additional CSS &lpar;Custom CSS&rpar; WordPress](https://dothanhlong.org/backup-additional-css-custom-css-wordpress/)
+- [Hướng dẫn WordPress add_filter](https://dothanhlong.org/huong-dan-wordpress-add_filter/)
+- [PostgreSQL force rename database](https://dothanhlong.org/postgresql-force-rename-database/)
 - [Đồng bộ – Bất đồng bộ AngularJs](https://dothanhlong.org/dong-bo-bat-dong-bo-angularjs/)
 - [[Javascript] Tìm cụm từ trong object – How to filter JSON data by properties that contain certain strings?](https://dothanhlong.org/javascript-tim-cum-tu-trong-object-how-to-filter-json-data-by-properties-that-contain-certain-strings/)
 - [Add VN2000 Projection in ArcGIS](https://dothanhlong.org/add-vn2000-projection-in-arcgis/)
@@ -85,10 +89,6 @@
 - [Using .htaccess to restrict access to Files and Directories](https://dothanhlong.org/using-htaccess-to-restrict-access-to-files-and-directories/)
 - [Lỗi ADB không tìm thấy thiết bị hoặc adb server bị killed](https://dothanhlong.org/loi-adb-khong-tim-thay-thiet-bi-hoac-adb-server-bi-killed/)
 - [Python convert all video file in folder to mp4](https://dothanhlong.org/python-convert-all-video-file-in-folder-to-mp4/)
-- [Run saved game DraStic on No$GBA](https://dothanhlong.org/run-saved-game-drastic-on-nogba/)
-- [Ignore tracked folder in git](https://dothanhlong.org/ignore-tracked-folder-in-git/)
-- [Tool Gia hạn thời gian dùng thử phần mềm Balsamiq](https://dothanhlong.org/tool-gia-han-thoi-gian-dung-thu-phan-mem-balsamiq/)
-- [Cách chuyển file PDF bị khóa sang Word – Convert Locked PDF to Word](https://dothanhlong.org/cach-chuyen-file-pdf-bi-khoa-sang-word-convert-locked-pdf-to-word/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

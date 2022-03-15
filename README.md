@@ -74,6 +74,10 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL for IoT &lpar;The Internet Of Strange Things&rpar;](https://dothanhlong.org/postgresql-for-iot-the-internet-of-strange-things/)
+- [[Sưu tầm] Introduction To PostgreSQL As A Time Series Database For IoT](https://dothanhlong.org/suu-tam-introduction-to-postgresql-as-a-time-series-database-for-iot/)
+- [WordPress Disabling forced FTP credentials for any updates](https://dothanhlong.org/wordpress-disabling-forced-ftp-credentials-for-any-updates/)
+- [Docker Export và Import Container](https://dothanhlong.org/docker-export-va-import-container/)
 - [OpenStreetmap download building footprints](https://dothanhlong.org/openstreetmap-download-building-footprints/)
 - [Protected: Backup Additional CSS &lpar;Custom CSS&rpar; WordPress](https://dothanhlong.org/backup-additional-css-custom-css-wordpress/)
 - [Hướng dẫn WordPress add_filter](https://dothanhlong.org/huong-dan-wordpress-add_filter/)
@@ -85,10 +89,6 @@
 - [Fix pip install throwing “Permission Denied”](https://dothanhlong.org/fix-pip-install-throwing-permission-denied/)
 - [Sketch to Code](https://dothanhlong.org/sketch-to-code/)
 - [Nguồn Bản đồ Land Cover](https://dothanhlong.org/nguon-ban-do-land-cover/)
-- [[Sưu tầm] Chạy ứng dụng Flask với Gunicorn trên ubuntu](https://dothanhlong.org/suu-tam-chay-ung-dung-flask-voi-gunicorn-tren-ubuntu/)
-- [Using .htaccess to restrict access to Files and Directories](https://dothanhlong.org/using-htaccess-to-restrict-access-to-files-and-directories/)
-- [Lỗi ADB không tìm thấy thiết bị hoặc adb server bị killed](https://dothanhlong.org/loi-adb-khong-tim-thay-thiet-bi-hoac-adb-server-bi-killed/)
-- [Python convert all video file in folder to mp4](https://dothanhlong.org/python-convert-all-video-file-in-folder-to-mp4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

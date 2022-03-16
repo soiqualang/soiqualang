@@ -74,6 +74,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bức ảnh 717 gigapixels hoặc 717,000,000,000 pixels](https://dothanhlong.org/buc-anh-717-gigapixels-hoac-717000000000-pixels/)
+- [Xếp hạng các Database Engines theo mức độ phổ biến &lpar;tháng 3/2022&rpar;](https://dothanhlong.org/xep-hang-cac-database-engines-theo-muc-do-pho-bien-thang-3-2022/)
+- [10 chương trình terminal thú vị trên Linux mà bạn nên thử khi chán](https://dothanhlong.org/10-chuong-trinh-terminal-thu-vi-tren-linux-ma-ban-nen-thu-khi-chan/)
 - [PostgreSQL for IoT &lpar;The Internet Of Strange Things&rpar;](https://dothanhlong.org/postgresql-for-iot-the-internet-of-strange-things/)
 - [[Sưu tầm] Introduction To PostgreSQL As A Time Series Database For IoT](https://dothanhlong.org/suu-tam-introduction-to-postgresql-as-a-time-series-database-for-iot/)
 - [WordPress Disabling forced FTP credentials for any updates](https://dothanhlong.org/wordpress-disabling-forced-ftp-credentials-for-any-updates/)
@@ -86,9 +89,6 @@
 - [[Javascript] Tìm cụm từ trong object – How to filter JSON data by properties that contain certain strings?](https://dothanhlong.org/javascript-tim-cum-tu-trong-object-how-to-filter-json-data-by-properties-that-contain-certain-strings/)
 - [Add VN2000 Projection in ArcGIS](https://dothanhlong.org/add-vn2000-projection-in-arcgis/)
 - [Fix Unable to connect to PostgreSQL server: SCRAM authentication requires libpq version 10 or above](https://dothanhlong.org/fix-unable-to-connect-to-postgresql-server-scram-authentication-requires-libpq-version-10-or-above/)
-- [Fix pip install throwing “Permission Denied”](https://dothanhlong.org/fix-pip-install-throwing-permission-denied/)
-- [Sketch to Code](https://dothanhlong.org/sketch-to-code/)
-- [Nguồn Bản đồ Land Cover](https://dothanhlong.org/nguon-ban-do-land-cover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

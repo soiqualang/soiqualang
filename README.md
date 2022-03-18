@@ -74,6 +74,11 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cài SSH Server và fix lỗi SSH Permission denied, please try again](https://dothanhlong.org/cai-ssh-server-va-fix-loi-ssh-permission-denied-please-try-again/)
+- [[Sưu tầm] Auto Start LAMPP &lpar;XAMPP&rpar; at Startup in Ubuntu Linux](https://dothanhlong.org/suu-tam-auto-start-lampp-xampp-at-startup-in-ubuntu-linux/)
+- [Cấu hình Docker WSL2 – chuyển vị trí lưu docker sang ổ đĩa khác](https://dothanhlong.org/cau-hinh-docker-wsl2-chuyen-vi-tri-luu-docker-sang-o-dia-khac/)
+- [Cấu hình Docker Hyper-V – chuyển vị trí lưu docker sang ổ đĩa khác](https://dothanhlong.org/cau-hinh-docker-hyper-v-chuyen-vi-tri-luu-docker-sang-o-dia-khac/)
+- [Force Drop Database PostgreSQL](https://dothanhlong.org/force-drop-database-postgresql/)
 - [Bức ảnh 717 gigapixels hoặc 717,000,000,000 pixels](https://dothanhlong.org/buc-anh-717-gigapixels-hoac-717000000000-pixels/)
 - [Xếp hạng các Database Engines theo mức độ phổ biến &lpar;tháng 3/2022&rpar;](https://dothanhlong.org/xep-hang-cac-database-engines-theo-muc-do-pho-bien-thang-3-2022/)
 - [10 chương trình terminal thú vị trên Linux mà bạn nên thử khi chán](https://dothanhlong.org/10-chuong-trinh-terminal-thu-vi-tren-linux-ma-ban-nen-thu-khi-chan/)
@@ -84,11 +89,6 @@
 - [OpenStreetmap download building footprints](https://dothanhlong.org/openstreetmap-download-building-footprints/)
 - [Protected: Backup Additional CSS &lpar;Custom CSS&rpar; WordPress](https://dothanhlong.org/backup-additional-css-custom-css-wordpress/)
 - [Hướng dẫn WordPress add_filter](https://dothanhlong.org/huong-dan-wordpress-add_filter/)
-- [PostgreSQL force rename database](https://dothanhlong.org/postgresql-force-rename-database/)
-- [Đồng bộ – Bất đồng bộ AngularJs](https://dothanhlong.org/dong-bo-bat-dong-bo-angularjs/)
-- [[Javascript] Tìm cụm từ trong object – How to filter JSON data by properties that contain certain strings?](https://dothanhlong.org/javascript-tim-cum-tu-trong-object-how-to-filter-json-data-by-properties-that-contain-certain-strings/)
-- [Add VN2000 Projection in ArcGIS](https://dothanhlong.org/add-vn2000-projection-in-arcgis/)
-- [Fix Unable to connect to PostgreSQL server: SCRAM authentication requires libpq version 10 or above](https://dothanhlong.org/fix-unable-to-connect-to-postgresql-server-scram-authentication-requires-libpq-version-10-or-above/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

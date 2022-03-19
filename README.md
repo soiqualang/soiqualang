@@ -74,6 +74,12 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI &lpar;gunicorn&rpar; bị lỗi Mixed Content HTTPS vs HTTP](https://dothanhlong.org/fastapi-gunicorn-bi-loi-mixed-content-https-vs-http/)
+- [[Funny] Chải lông cho boss](https://dothanhlong.org/funny-chai-long-cho-boss/)
+- [Cloudflare bị lỗi Error 525 SSL handshake failed](https://dothanhlong.org/cloudflare-bi-loi-error-525-ssl-handshake-failed/)
+- [Fix The repository … no longer has a Release file](https://dothanhlong.org/fix-the-repository-no-longer-has-a-release-file/)
+- [Quy tắc vẽ Sơ đồ khối](https://dothanhlong.org/quy-tac-ve-so-do-khoi/)
+- [Fix PowerShell Installing NuGet, says unable to access internet](https://dothanhlong.org/fix-loi-powershell-installing-nuget-says-unable-to-access-internet/)
 - [Cài SSH Server và fix lỗi SSH Permission denied, please try again](https://dothanhlong.org/cai-ssh-server-va-fix-loi-ssh-permission-denied-please-try-again/)
 - [[Sưu tầm] Auto Start LAMPP &lpar;XAMPP&rpar; at Startup in Ubuntu Linux](https://dothanhlong.org/suu-tam-auto-start-lampp-xampp-at-startup-in-ubuntu-linux/)
 - [Cấu hình Docker WSL2 – chuyển vị trí lưu docker sang ổ đĩa khác](https://dothanhlong.org/cau-hinh-docker-wsl2-chuyen-vi-tri-luu-docker-sang-o-dia-khac/)
@@ -83,12 +89,6 @@
 - [Xếp hạng các Database Engines theo mức độ phổ biến &lpar;tháng 3/2022&rpar;](https://dothanhlong.org/xep-hang-cac-database-engines-theo-muc-do-pho-bien-thang-3-2022/)
 - [10 chương trình terminal thú vị trên Linux mà bạn nên thử khi chán](https://dothanhlong.org/10-chuong-trinh-terminal-thu-vi-tren-linux-ma-ban-nen-thu-khi-chan/)
 - [PostgreSQL for IoT &lpar;The Internet Of Strange Things&rpar;](https://dothanhlong.org/postgresql-for-iot-the-internet-of-strange-things/)
-- [[Sưu tầm] Introduction To PostgreSQL As A Time Series Database For IoT](https://dothanhlong.org/suu-tam-introduction-to-postgresql-as-a-time-series-database-for-iot/)
-- [WordPress Disabling forced FTP credentials for any updates](https://dothanhlong.org/wordpress-disabling-forced-ftp-credentials-for-any-updates/)
-- [Docker Export và Import Container](https://dothanhlong.org/docker-export-va-import-container/)
-- [OpenStreetmap download building footprints](https://dothanhlong.org/openstreetmap-download-building-footprints/)
-- [Protected: Backup Additional CSS &lpar;Custom CSS&rpar; WordPress](https://dothanhlong.org/backup-additional-css-custom-css-wordpress/)
-- [Hướng dẫn WordPress add_filter](https://dothanhlong.org/huong-dan-wordpress-add_filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

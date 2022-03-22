@@ -74,6 +74,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to clear the contents of a file from the command line?](https://dothanhlong.org/how-to-clear-the-contents-of-a-file-from-the-command-line/)
+- [Các loại chuẩn hóa cơ sở dữ liệu quan hệ](https://dothanhlong.org/cac-loai-chuan-hoa-co-so-du-lieu-quan-he/)
+- [Thêm quảng cáo vào app android – ionic add Admob to my app](https://dothanhlong.org/them-quang-cao-vao-app-android-ionic-add-admob-to-my-app/)
 - [FastAPI &lpar;gunicorn&rpar; bị lỗi Mixed Content HTTPS vs HTTP](https://dothanhlong.org/fastapi-gunicorn-bi-loi-mixed-content-https-vs-http/)
 - [[Funny] Chải lông cho boss](https://dothanhlong.org/funny-chai-long-cho-boss/)
 - [Cloudflare bị lỗi Error 525 SSL handshake failed](https://dothanhlong.org/cloudflare-bi-loi-error-525-ssl-handshake-failed/)
@@ -86,9 +89,6 @@
 - [Cấu hình Docker Hyper-V – chuyển vị trí lưu docker sang ổ đĩa khác](https://dothanhlong.org/cau-hinh-docker-hyper-v-chuyen-vi-tri-luu-docker-sang-o-dia-khac/)
 - [Force Drop Database PostgreSQL](https://dothanhlong.org/force-drop-database-postgresql/)
 - [Bức ảnh 717 gigapixels hoặc 717,000,000,000 pixels](https://dothanhlong.org/buc-anh-717-gigapixels-hoac-717000000000-pixels/)
-- [Xếp hạng các Database Engines theo mức độ phổ biến &lpar;tháng 3/2022&rpar;](https://dothanhlong.org/xep-hang-cac-database-engines-theo-muc-do-pho-bien-thang-3-2022/)
-- [10 chương trình terminal thú vị trên Linux mà bạn nên thử khi chán](https://dothanhlong.org/10-chuong-trinh-terminal-thu-vi-tren-linux-ma-ban-nen-thu-khi-chan/)
-- [PostgreSQL for IoT &lpar;The Internet Of Strange Things&rpar;](https://dothanhlong.org/postgresql-for-iot-the-internet-of-strange-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

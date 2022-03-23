@@ -74,6 +74,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Fix Object of type ‘date’ is not JSON serializable](https://dothanhlong.org/python-fix-object-of-type-date-is-not-json-serializable/)
+- [[Easy way] Turn Your WordPress Site into a Progressive Web App &lpar;PWA&rpar;](https://dothanhlong.org/easy-way-turn-your-wordpress-site-into-a-progressive-web-app-pwa/)
 - [How to clear the contents of a file from the command line?](https://dothanhlong.org/how-to-clear-the-contents-of-a-file-from-the-command-line/)
 - [Các loại chuẩn hóa cơ sở dữ liệu quan hệ](https://dothanhlong.org/cac-loai-chuan-hoa-co-so-du-lieu-quan-he/)
 - [Thêm quảng cáo vào app android – ionic add Admob to my app](https://dothanhlong.org/them-quang-cao-vao-app-android-ionic-add-admob-to-my-app/)
@@ -87,8 +89,6 @@
 - [[Sưu tầm] Auto Start LAMPP &lpar;XAMPP&rpar; at Startup in Ubuntu Linux](https://dothanhlong.org/suu-tam-auto-start-lampp-xampp-at-startup-in-ubuntu-linux/)
 - [Cấu hình Docker WSL2 – chuyển vị trí lưu docker sang ổ đĩa khác](https://dothanhlong.org/cau-hinh-docker-wsl2-chuyen-vi-tri-luu-docker-sang-o-dia-khac/)
 - [Cấu hình Docker Hyper-V – chuyển vị trí lưu docker sang ổ đĩa khác](https://dothanhlong.org/cau-hinh-docker-hyper-v-chuyen-vi-tri-luu-docker-sang-o-dia-khac/)
-- [Force Drop Database PostgreSQL](https://dothanhlong.org/force-drop-database-postgresql/)
-- [Bức ảnh 717 gigapixels hoặc 717,000,000,000 pixels](https://dothanhlong.org/buc-anh-717-gigapixels-hoac-717000000000-pixels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

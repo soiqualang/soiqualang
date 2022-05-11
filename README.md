@@ -74,6 +74,9 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Install SSL Certificate into Linux] Installing Certificate PFX into Unbuntu Linux](https://dothanhlong.org/install-ssl-certificate-into-linux-installing-certificate-pfx-into-unbuntu-linux/)
+- [rclone – Fatal error: failed to mount FUSE fs](https://dothanhlong.org/rclone-fatal-error-failed-to-mount-fuse-fs/)
+- [rclone – couldn’t connect ssh: ssh: must specify HostKeyCallback](https://dothanhlong.org/rclone-couldnt-connect-ssh-ssh-must-specify-hostkeycallback/)
 - [[Linux Screen] Cannot make directory ‘/var/run/screen’: Permission denied](https://dothanhlong.org/linux-screen-cannot-make-directory-var-run-screen-permission-denied/)
 - [Điều khoản Dịch vụ Trực tuyến Google AdSense, Admob bằng tiếng Việt &lpar;04/2022&rpar;](https://dothanhlong.org/dieu-khoan-dich-vu-truc-tuyen-google-adsense-admob-bang-tieng-viet-04-2022/)
 - [Cloud masking of Sentinel 2 using Google Earth Engine](https://dothanhlong.org/cloud-masking-of-sentinel-2-using-google-earth-engine/)
@@ -86,9 +89,6 @@
 - [Fix OGR2OGR Import – invalid byte sequence for encoding UTF8](https://dothanhlong.org/fix-ogr2ogr-import-invalid-byte-sequence-for-encoding-utf8/)
 - [Javascript Date to ISO String +7](https://dothanhlong.org/javascript-date-to-iso-string-7/)
 - [[QGIS cơ bản] Hướng dẫn Tải và Cài đặt phần mềm QGIS](https://dothanhlong.org/qgis-co-ban-huong-dan-tai-va-cai-dat-phan-mem-qgis/)
-- [[GEE Basic] Add an Image collection in Google Earth Engine](https://dothanhlong.org/gee-basic-add-an-image-collection-in-google-earth-engine/)
-- [[GEE Cơ bản] Hướng dẫn thêm một tập ảnh trong Google Earth Engine](https://dothanhlong.org/gee-co-ban-them-mot-tap-anh-trong-google-earth-engine/)
-- [Download Sentinel-2 10-Meter Land Use – Land Cover](https://dothanhlong.org/download-sentinel-2-10-meter-land-use-land-cover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

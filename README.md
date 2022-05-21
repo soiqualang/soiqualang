@@ -74,6 +74,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cài Docker Compose trên Ubuntu &lpar;Linux&rpar;](https://dothanhlong.org/cai-docker-compose-tren-ubuntu-linux/)
+- [Android debug via wifi](https://dothanhlong.org/android-debug-via-wifi/)
 - [[Install SSL Certificate into Linux] Installing Certificate PFX into Unbuntu Linux](https://dothanhlong.org/install-ssl-certificate-into-linux-installing-certificate-pfx-into-unbuntu-linux/)
 - [rclone – Fatal error: failed to mount FUSE fs](https://dothanhlong.org/rclone-fatal-error-failed-to-mount-fuse-fs/)
 - [rclone – couldn’t connect ssh: ssh: must specify HostKeyCallback](https://dothanhlong.org/rclone-couldnt-connect-ssh-ssh-must-specify-hostkeycallback/)
@@ -87,8 +89,6 @@
 - [PI module biến hóa thành nhiều module chức năng khác nhau](https://dothanhlong.org/pi-module-bien-hoa-thanh-nhieu-module-chuc-nang-khac-nhau/)
 - [[QGIS Basic] How to Download and Install the latest QGIS software](https://dothanhlong.org/qgis-basic-how-to-download-and-install-the-latest-qgis-software/)
 - [Fix OGR2OGR Import – invalid byte sequence for encoding UTF8](https://dothanhlong.org/fix-ogr2ogr-import-invalid-byte-sequence-for-encoding-utf8/)
-- [Javascript Date to ISO String +7](https://dothanhlong.org/javascript-date-to-iso-string-7/)
-- [[QGIS cơ bản] Hướng dẫn Tải và Cài đặt phần mềm QGIS](https://dothanhlong.org/qgis-co-ban-huong-dan-tai-va-cai-dat-phan-mem-qgis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

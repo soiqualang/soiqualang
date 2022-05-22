@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[GBA Game] How To Patch IPS and UPS Files to Play a ROM Hack](https://dothanhlong.org/gba-game-how-to-patch-ips-and-ups-files-to-play-a-rom-hack/)
 - [Cài Docker Compose trên Ubuntu &lpar;Linux&rpar;](https://dothanhlong.org/cai-docker-compose-tren-ubuntu-linux/)
 - [Android debug via wifi](https://dothanhlong.org/android-debug-via-wifi/)
 - [[Install SSL Certificate into Linux] Installing Certificate PFX into Unbuntu Linux](https://dothanhlong.org/install-ssl-certificate-into-linux-installing-certificate-pfx-into-unbuntu-linux/)
@@ -88,7 +89,6 @@
 - [The zone attribute is specific to pytz’s interface; please migrate to a new time zone provider](https://dothanhlong.org/the-zone-attribute-is-specific-to-pytzs-interface-please-migrate-to-a-new-time-zone-provider/)
 - [PI module biến hóa thành nhiều module chức năng khác nhau](https://dothanhlong.org/pi-module-bien-hoa-thanh-nhieu-module-chuc-nang-khac-nhau/)
 - [[QGIS Basic] How to Download and Install the latest QGIS software](https://dothanhlong.org/qgis-basic-how-to-download-and-install-the-latest-qgis-software/)
-- [Fix OGR2OGR Import – invalid byte sequence for encoding UTF8](https://dothanhlong.org/fix-ogr2ogr-import-invalid-byte-sequence-for-encoding-utf8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

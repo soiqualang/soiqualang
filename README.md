@@ -74,6 +74,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Enable VT-x in your BIOS security settings &lpar;refer to documentation for your computer&rpar;](https://dothanhlong.org/enable-vt-x-in-your-bios-security-settings-refer-to-documentation-for-your-computer/)
+- [[Rclone] Config rclone to support diffie-hellman-group-exchange-sha256 diffie-hellman-group-exchange-sha1](https://dothanhlong.org/rclone-config-rclone-to-support-diffie-hellman-group-exchange-sha256-diffie-hellman-group-exchange-sha1/)
 - [Life before the invention of AutoCAD, 1950-1980](https://dothanhlong.org/life-before-the-invention-of-autocad-1950-1980/)
 - [[GBA Game] How To Patch IPS and UPS Files to Play a ROM Hack](https://dothanhlong.org/gba-game-how-to-patch-ips-and-ups-files-to-play-a-rom-hack/)
 - [Cài Docker Compose trên Ubuntu &lpar;Linux&rpar;](https://dothanhlong.org/cai-docker-compose-tren-ubuntu-linux/)
@@ -87,8 +89,6 @@
 - [Introduction to QGIS](https://dothanhlong.org/introduction-to-qgis/)
 - [Fix Docker WSL 2 installation is incomplete](https://dothanhlong.org/fix-docker-wsl-2-installation-is-incomplete/)
 - [Ionic app icon generator](https://dothanhlong.org/ionic-app-icon-generator/)
-- [The zone attribute is specific to pytz’s interface; please migrate to a new time zone provider](https://dothanhlong.org/the-zone-attribute-is-specific-to-pytzs-interface-please-migrate-to-a-new-time-zone-provider/)
-- [PI module biến hóa thành nhiều module chức năng khác nhau](https://dothanhlong.org/pi-module-bien-hoa-thanh-nhieu-module-chuc-nang-khac-nhau/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

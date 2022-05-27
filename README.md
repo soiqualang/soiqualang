@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Infinity hosting] Lỗi không cho request dữ liệu được lưu trên host](https://dothanhlong.org/infinity-hosting-loi-khong-cho-request-du-lieu-duoc-luu-tren-host/)
 - [Enable VT-x in your BIOS security settings &lpar;refer to documentation for your computer&rpar;](https://dothanhlong.org/enable-vt-x-in-your-bios-security-settings-refer-to-documentation-for-your-computer/)
 - [[Rclone] Config rclone to support diffie-hellman-group-exchange-sha256 diffie-hellman-group-exchange-sha1](https://dothanhlong.org/rclone-config-rclone-to-support-diffie-hellman-group-exchange-sha256-diffie-hellman-group-exchange-sha1/)
 - [Life before the invention of AutoCAD, 1950-1980](https://dothanhlong.org/life-before-the-invention-of-autocad-1950-1980/)
@@ -88,7 +89,6 @@
 - [Cloud masking of Sentinel 2 using Google Earth Engine](https://dothanhlong.org/cloud-masking-of-sentinel-2-using-google-earth-engine/)
 - [Introduction to QGIS](https://dothanhlong.org/introduction-to-qgis/)
 - [Fix Docker WSL 2 installation is incomplete](https://dothanhlong.org/fix-docker-wsl-2-installation-is-incomplete/)
-- [Ionic app icon generator](https://dothanhlong.org/ionic-app-icon-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

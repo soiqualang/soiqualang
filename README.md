@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [wttr.in | Check weather in terminal](https://dothanhlong.org/wttr-in-check-weather-in-terminal/)
 - [[Infinity hosting] Lỗi không cho request dữ liệu được lưu trên host](https://dothanhlong.org/infinity-hosting-loi-khong-cho-request-du-lieu-duoc-luu-tren-host/)
 - [Enable VT-x in your BIOS security settings &lpar;refer to documentation for your computer&rpar;](https://dothanhlong.org/enable-vt-x-in-your-bios-security-settings-refer-to-documentation-for-your-computer/)
 - [[Rclone] Config rclone to support diffie-hellman-group-exchange-sha256 diffie-hellman-group-exchange-sha1](https://dothanhlong.org/rclone-config-rclone-to-support-diffie-hellman-group-exchange-sha256-diffie-hellman-group-exchange-sha1/)
@@ -88,7 +89,6 @@
 - [Điều khoản Dịch vụ Trực tuyến Google AdSense, Admob bằng tiếng Việt &lpar;04/2022&rpar;](https://dothanhlong.org/dieu-khoan-dich-vu-truc-tuyen-google-adsense-admob-bang-tieng-viet-04-2022/)
 - [Cloud masking of Sentinel 2 using Google Earth Engine](https://dothanhlong.org/cloud-masking-of-sentinel-2-using-google-earth-engine/)
 - [Introduction to QGIS](https://dothanhlong.org/introduction-to-qgis/)
-- [Fix Docker WSL 2 installation is incomplete](https://dothanhlong.org/fix-docker-wsl-2-installation-is-incomplete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

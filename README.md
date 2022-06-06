@@ -93,6 +93,9 @@
 
 ---
 
+<a href="https://github.com/soiqualang/soiqualang"><img alt="soiqualang's activity graph" src="https://activity-graph.herokuapp.com/graph?username=soiqualang&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
+
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soiqualang&show_icons=true&count_private=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soiqualang&langs_count=8&layout=compact)](https://github.com/soiqualang/Py4Sqlite3) -->

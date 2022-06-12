@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Sưu tầm] gRPC là gì? Vũ khí tối thượng tăng tải Microservices](https://dothanhlong.org/suu-tam-grpc-la-gi-vu-khi-toi-thuong-tang-tai-microservices/)
 - [Python concatenate multi video](https://dothanhlong.org/python-concatenate-multi-video/)
 - [wttr.in | Check weather in terminal](https://dothanhlong.org/wttr-in-check-weather-in-terminal/)
 - [[Infinity hosting] Lỗi không cho request dữ liệu được lưu trên host](https://dothanhlong.org/infinity-hosting-loi-khong-cho-request-du-lieu-duoc-luu-tren-host/)
@@ -88,7 +89,6 @@
 - [rclone – couldn’t connect ssh: ssh: must specify HostKeyCallback](https://dothanhlong.org/rclone-couldnt-connect-ssh-ssh-must-specify-hostkeycallback/)
 - [[Linux Screen] Cannot make directory ‘/var/run/screen’: Permission denied](https://dothanhlong.org/linux-screen-cannot-make-directory-var-run-screen-permission-denied/)
 - [Điều khoản Dịch vụ Trực tuyến Google AdSense, Admob bằng tiếng Việt &lpar;04/2022&rpar;](https://dothanhlong.org/dieu-khoan-dich-vu-truc-tuyen-google-adsense-admob-bang-tieng-viet-04-2022/)
-- [Cloud masking of Sentinel 2 using Google Earth Engine](https://dothanhlong.org/cloud-masking-of-sentinel-2-using-google-earth-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

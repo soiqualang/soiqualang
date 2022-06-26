@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress fix lỗi This request has been blocked; the content must be served over HTTPS.](https://dothanhlong.org/wordpress-fix-loi-this-request-has-been-blocked-the-content-must-be-served-over-https/)
 - [Giới thiệu về GitHub Profile Achievements và cách đạt được các huy hiệu này](https://dothanhlong.org/gioi-thieu-ve-github-profile-achievements-va-cach-dat-duoc-cac-huy-hieu-nay/)
 - [[Backup Docker] Saving Images and Containers as Tar Files for Sharing](https://dothanhlong.org/backup-docker-saving-images-and-containers-as-tar-files-for-sharing/)
 - [IONIC Angular deployment – 404 on page Refresh](https://dothanhlong.org/ionic-angular-deployment-404-on-page-refresh/)
@@ -88,7 +89,6 @@
 - [Cài Docker Compose trên Ubuntu &lpar;Linux&rpar;](https://dothanhlong.org/cai-docker-compose-tren-ubuntu-linux/)
 - [Android debug via wifi](https://dothanhlong.org/android-debug-via-wifi/)
 - [[Install SSL Certificate into Linux] Installing Certificate PFX into Unbuntu Linux](https://dothanhlong.org/install-ssl-certificate-into-linux-installing-certificate-pfx-into-unbuntu-linux/)
-- [rclone – Fatal error: failed to mount FUSE fs](https://dothanhlong.org/rclone-fatal-error-failed-to-mount-fuse-fs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

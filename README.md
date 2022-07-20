@@ -74,6 +74,14 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [IONIC Updating Dependencies](https://dothanhlong.org/ionic-updating-dependencies/)
+- [Global Flood Mapper &lpar;GFM&rpar;](https://dothanhlong.org/global-flood-mapper-gfm/)
+- [PostgreSQL update value in JSONB](https://dothanhlong.org/postgresql-update-value-in-jsonb/)
+- [Python Cutting/trim out a portion of video](https://dothanhlong.org/python-cutting-trim-out-a-portion-of-video/)
+- [[Fix error] An unhandled exception occurred: [BABEL] /workdir/test/chess/www/1-es2015.js: Could not find plugin “proposal-class-static-block”](https://dothanhlong.org/fix-error-an-unhandled-exception-occurred-babel-workdir-test-chess-www-1-es2015-js-could-not-find-plugin-proposal-class-static-block/)
+- [IONIC Capacitor build Android Debug APK](https://dothanhlong.org/ionic-capacitor-build-android-debug-apk/)
+- [Backing up your docker volumes](https://dothanhlong.org/backing-up-your-docker-volumes/)
+- [Awesome Docker Compose](https://dothanhlong.org/awesome-docker-compose/)
 - [WordPress fix lỗi This request has been blocked; the content must be served over HTTPS.](https://dothanhlong.org/wordpress-fix-loi-this-request-has-been-blocked-the-content-must-be-served-over-https/)
 - [Giới thiệu về GitHub Profile Achievements và cách đạt được các huy hiệu này](https://dothanhlong.org/gioi-thieu-ve-github-profile-achievements-va-cach-dat-duoc-cac-huy-hieu-nay/)
 - [[Backup Docker] Saving Images and Containers as Tar Files for Sharing](https://dothanhlong.org/backup-docker-saving-images-and-containers-as-tar-files-for-sharing/)
@@ -81,14 +89,6 @@
 - [[Sưu tầm] gRPC là gì? Vũ khí tối thượng tăng tải Microservices](https://dothanhlong.org/suu-tam-grpc-la-gi-vu-khi-toi-thuong-tang-tai-microservices/)
 - [Python concatenate multi video](https://dothanhlong.org/python-concatenate-multi-video/)
 - [wttr.in | Check weather in terminal](https://dothanhlong.org/wttr-in-check-weather-in-terminal/)
-- [[Infinity hosting] Lỗi không cho request dữ liệu được lưu trên host](https://dothanhlong.org/infinity-hosting-loi-khong-cho-request-du-lieu-duoc-luu-tren-host/)
-- [Enable VT-x in your BIOS security settings &lpar;refer to documentation for your computer&rpar;](https://dothanhlong.org/enable-vt-x-in-your-bios-security-settings-refer-to-documentation-for-your-computer/)
-- [[Rclone] Config rclone to support diffie-hellman-group-exchange-sha256 diffie-hellman-group-exchange-sha1](https://dothanhlong.org/rclone-config-rclone-to-support-diffie-hellman-group-exchange-sha256-diffie-hellman-group-exchange-sha1/)
-- [Life before the invention of AutoCAD, 1950-1980](https://dothanhlong.org/life-before-the-invention-of-autocad-1950-1980/)
-- [[GBA Game] How To Patch IPS and UPS Files to Play a ROM Hack](https://dothanhlong.org/gba-game-how-to-patch-ips-and-ups-files-to-play-a-rom-hack/)
-- [Cài Docker Compose trên Ubuntu &lpar;Linux&rpar;](https://dothanhlong.org/cai-docker-compose-tren-ubuntu-linux/)
-- [Android debug via wifi](https://dothanhlong.org/android-debug-via-wifi/)
-- [[Install SSL Certificate into Linux] Installing Certificate PFX into Unbuntu Linux](https://dothanhlong.org/install-ssl-certificate-into-linux-installing-certificate-pfx-into-unbuntu-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -74,6 +74,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to enable CORS in Python Flask](https://dothanhlong.org/how-to-enable-cors-in-python-flask/)
+- [Ionic Recognized as Top Leader in Mobile Development Frameworks &lpar;07/2022&rpar;](https://dothanhlong.org/ionic-recognized-as-top-leader-in-mobile-development-frameworks-07-2022/)
 - [IONIC Updating Dependencies](https://dothanhlong.org/ionic-updating-dependencies/)
 - [Global Flood Mapper &lpar;GFM&rpar;](https://dothanhlong.org/global-flood-mapper-gfm/)
 - [PostgreSQL update value in JSONB](https://dothanhlong.org/postgresql-update-value-in-jsonb/)
@@ -87,8 +89,6 @@
 - [[Backup Docker] Saving Images and Containers as Tar Files for Sharing](https://dothanhlong.org/backup-docker-saving-images-and-containers-as-tar-files-for-sharing/)
 - [IONIC Angular deployment – 404 on page Refresh](https://dothanhlong.org/ionic-angular-deployment-404-on-page-refresh/)
 - [[Sưu tầm] gRPC là gì? Vũ khí tối thượng tăng tải Microservices](https://dothanhlong.org/suu-tam-grpc-la-gi-vu-khi-toi-thuong-tang-tai-microservices/)
-- [Python concatenate multi video](https://dothanhlong.org/python-concatenate-multi-video/)
-- [wttr.in | Check weather in terminal](https://dothanhlong.org/wttr-in-check-weather-in-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

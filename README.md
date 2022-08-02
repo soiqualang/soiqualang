@@ -74,6 +74,8 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lỗi No Python at… khi gọi từ python Virtual Environment](https://dothanhlong.org/loi-no-python-at-khi-goi-tu-python-virtual-environment/)
+- [[Linux] Kiểm tra dung lượng file, folder](https://dothanhlong.org/linux-kiem-tra-dung-luong-file-folder/)
 - [How to enable CORS in Python Flask](https://dothanhlong.org/how-to-enable-cors-in-python-flask/)
 - [Ionic Recognized as Top Leader in Mobile Development Frameworks &lpar;07/2022&rpar;](https://dothanhlong.org/ionic-recognized-as-top-leader-in-mobile-development-frameworks-07-2022/)
 - [IONIC Updating Dependencies](https://dothanhlong.org/ionic-updating-dependencies/)
@@ -87,8 +89,6 @@
 - [WordPress fix lỗi This request has been blocked; the content must be served over HTTPS.](https://dothanhlong.org/wordpress-fix-loi-this-request-has-been-blocked-the-content-must-be-served-over-https/)
 - [Giới thiệu về GitHub Profile Achievements và cách đạt được các huy hiệu này](https://dothanhlong.org/gioi-thieu-ve-github-profile-achievements-va-cach-dat-duoc-cac-huy-hieu-nay/)
 - [[Backup Docker] Saving Images and Containers as Tar Files for Sharing](https://dothanhlong.org/backup-docker-saving-images-and-containers-as-tar-files-for-sharing/)
-- [IONIC Angular deployment – 404 on page Refresh](https://dothanhlong.org/ionic-angular-deployment-404-on-page-refresh/)
-- [[Sưu tầm] gRPC là gì? Vũ khí tối thượng tăng tải Microservices](https://dothanhlong.org/suu-tam-grpc-la-gi-vu-khi-toi-thuong-tang-tai-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

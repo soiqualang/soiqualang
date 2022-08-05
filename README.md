@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Python resources for Earth sciences](https://dothanhlong.org/python-resources-for-earth-sciences/)
 - [Lỗi No Python at… khi gọi từ python Virtual Environment](https://dothanhlong.org/loi-no-python-at-khi-goi-tu-python-virtual-environment/)
 - [[Linux] Kiểm tra dung lượng file, folder](https://dothanhlong.org/linux-kiem-tra-dung-luong-file-folder/)
 - [How to enable CORS in Python Flask](https://dothanhlong.org/how-to-enable-cors-in-python-flask/)
@@ -88,7 +89,6 @@
 - [Awesome Docker Compose](https://dothanhlong.org/awesome-docker-compose/)
 - [WordPress fix lỗi This request has been blocked; the content must be served over HTTPS.](https://dothanhlong.org/wordpress-fix-loi-this-request-has-been-blocked-the-content-must-be-served-over-https/)
 - [Giới thiệu về GitHub Profile Achievements và cách đạt được các huy hiệu này](https://dothanhlong.org/gioi-thieu-ve-github-profile-achievements-va-cach-dat-duoc-cac-huy-hieu-nay/)
-- [[Backup Docker] Saving Images and Containers as Tar Files for Sharing](https://dothanhlong.org/backup-docker-saving-images-and-containers-as-tar-files-for-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

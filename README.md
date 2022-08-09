@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker clear unused Docker images, volumes](https://dothanhlong.org/docker-clear-unused-docker-images-volumes/)
 - [Loạt ảnh thú vị giúp bạn hiểu thế giới xung quanh ta vận hành như thế nào?](https://dothanhlong.org/loat-anh-thu-vi-giup-ban-hieu-the-gioi-xung-quanh-ta-van-hanh-nhu-the-nao/)
 - [Python resources for Earth sciences](https://dothanhlong.org/python-resources-for-earth-sciences/)
 - [Lỗi No Python at… khi gọi từ python Virtual Environment](https://dothanhlong.org/loi-no-python-at-khi-goi-tu-python-virtual-environment/)
@@ -88,7 +89,6 @@
 - [IONIC Capacitor build Android Debug APK](https://dothanhlong.org/ionic-capacitor-build-android-debug-apk/)
 - [Backing up your docker volumes](https://dothanhlong.org/backing-up-your-docker-volumes/)
 - [Awesome Docker Compose](https://dothanhlong.org/awesome-docker-compose/)
-- [WordPress fix lỗi This request has been blocked; the content must be served over HTTPS.](https://dothanhlong.org/wordpress-fix-loi-this-request-has-been-blocked-the-content-must-be-served-over-https/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

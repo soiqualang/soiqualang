@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Sưu tầm] Note về Docker-compose](https://dothanhlong.org/suu-tam-note-ve-docker-compose/)
 - [Docker clear unused Docker images, volumes](https://dothanhlong.org/docker-clear-unused-docker-images-volumes/)
 - [Loạt ảnh thú vị giúp bạn hiểu thế giới xung quanh ta vận hành như thế nào?](https://dothanhlong.org/loat-anh-thu-vi-giup-ban-hieu-the-gioi-xung-quanh-ta-van-hanh-nhu-the-nao/)
 - [Python resources for Earth sciences](https://dothanhlong.org/python-resources-for-earth-sciences/)
@@ -88,7 +89,6 @@
 - [[Fix error] An unhandled exception occurred: [BABEL] /workdir/test/chess/www/1-es2015.js: Could not find plugin “proposal-class-static-block”](https://dothanhlong.org/fix-error-an-unhandled-exception-occurred-babel-workdir-test-chess-www-1-es2015-js-could-not-find-plugin-proposal-class-static-block/)
 - [IONIC Capacitor build Android Debug APK](https://dothanhlong.org/ionic-capacitor-build-android-debug-apk/)
 - [Backing up your docker volumes](https://dothanhlong.org/backing-up-your-docker-volumes/)
-- [Awesome Docker Compose](https://dothanhlong.org/awesome-docker-compose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

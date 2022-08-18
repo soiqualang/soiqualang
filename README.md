@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Đang vội mà gặp 2 con chim này nhây quá =&rpar;&rpar;](https://dothanhlong.org/dang-voi-ma-gap-2-con-chim-nay-nhay-qua/)
 - [[IONIC] Error: ENOENT: no such file or directory when running Ionic Cordova](https://dothanhlong.org/ionic-error-enoent-no-such-file-or-directory-when-running-ionic-cordova/)
 - [[Sưu tầm] Note về Docker-compose](https://dothanhlong.org/suu-tam-note-ve-docker-compose/)
 - [Docker clear unused Docker images, volumes](https://dothanhlong.org/docker-clear-unused-docker-images-volumes/)
@@ -88,7 +89,6 @@
 - [PostgreSQL update value in JSONB](https://dothanhlong.org/postgresql-update-value-in-jsonb/)
 - [Python Cutting/trim out a portion of video](https://dothanhlong.org/python-cutting-trim-out-a-portion-of-video/)
 - [[Fix error] An unhandled exception occurred: [BABEL] /workdir/test/chess/www/1-es2015.js: Could not find plugin “proposal-class-static-block”](https://dothanhlong.org/fix-error-an-unhandled-exception-occurred-babel-workdir-test-chess-www-1-es2015-js-could-not-find-plugin-proposal-class-static-block/)
-- [IONIC Capacitor build Android Debug APK](https://dothanhlong.org/ionic-capacitor-build-android-debug-apk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

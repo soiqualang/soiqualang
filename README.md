@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [[Window 10] Move Desktop folder to other location on Window 10](https://dothanhlong.org/window-10-move-desktop-folder-to-other-location-on-window-10/)
 - [Đang vội mà gặp 2 con chim này nhây quá =&rpar;&rpar;](https://dothanhlong.org/dang-voi-ma-gap-2-con-chim-nay-nhay-qua/)
 - [[IONIC] Error: ENOENT: no such file or directory when running Ionic Cordova](https://dothanhlong.org/ionic-error-enoent-no-such-file-or-directory-when-running-ionic-cordova/)
 - [[Sưu tầm] Note về Docker-compose](https://dothanhlong.org/suu-tam-note-ve-docker-compose/)
@@ -88,7 +89,6 @@
 - [Global Flood Mapper &lpar;GFM&rpar;](https://dothanhlong.org/global-flood-mapper-gfm/)
 - [PostgreSQL update value in JSONB](https://dothanhlong.org/postgresql-update-value-in-jsonb/)
 - [Python Cutting/trim out a portion of video](https://dothanhlong.org/python-cutting-trim-out-a-portion-of-video/)
-- [[Fix error] An unhandled exception occurred: [BABEL] /workdir/test/chess/www/1-es2015.js: Could not find plugin “proposal-class-static-block”](https://dothanhlong.org/fix-error-an-unhandled-exception-occurred-babel-workdir-test-chess-www-1-es2015-js-could-not-find-plugin-proposal-class-static-block/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

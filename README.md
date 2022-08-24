@@ -74,6 +74,7 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [TẠO ẢNH THỰC HOLOGRAM ĐƠN GIẢN TẠI NHÀ](https://dothanhlong.org/tao-anh-thuc-hologram-don-gian-tai-nha/)
 - [[Notes] How to resize a VirtualBox vmdk file](https://dothanhlong.org/notes-how-to-resize-a-virtualbox-vmdk-file/)
 - [[Window 10] Move Desktop folder to other location on Window 10](https://dothanhlong.org/window-10-move-desktop-folder-to-other-location-on-window-10/)
 - [Đang vội mà gặp 2 con chim này nhây quá =&rpar;&rpar;](https://dothanhlong.org/dang-voi-ma-gap-2-con-chim-nay-nhay-qua/)
@@ -88,7 +89,6 @@
 - [Ionic Recognized as Top Leader in Mobile Development Frameworks &lpar;07/2022&rpar;](https://dothanhlong.org/ionic-recognized-as-top-leader-in-mobile-development-frameworks-07-2022/)
 - [IONIC Updating Dependencies](https://dothanhlong.org/ionic-updating-dependencies/)
 - [Global Flood Mapper &lpar;GFM&rpar;](https://dothanhlong.org/global-flood-mapper-gfm/)
-- [PostgreSQL update value in JSONB](https://dothanhlong.org/postgresql-update-value-in-jsonb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

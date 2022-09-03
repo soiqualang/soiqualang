@@ -93,7 +93,7 @@
 
 ---
 
-<a href="https://github.com/soiqualang/soiqualang"><img alt="soiqualang's activity graph" src="https://activity-graph.herokuapp.com/graph?username=soiqualang&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- <a href="https://github.com/soiqualang/soiqualang"><img alt="soiqualang's activity graph" src="https://activity-graph.herokuapp.com/graph?username=soiqualang&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a> -->
 
 
 

@@ -5,7 +5,9 @@
 [![GitHub Badge](https://img.shields.io/github/followers/soiqualang?style=social)](https://github.com/soiqualang?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=M2rJ9t8AAAAJ&hl=en)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCVMwejzVTfpYQ9qFxOLF2lQ)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](http://girs.vn/vi/thong-tin-thanh-vien/23/thanh-long-do.html)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://dothanhlong.org/do-thanh-longs-cv/)
+![Soi's website](https://img.shields.io/badge/soiqualang-website-red)
+<!-- [![CV Badge](https://img.shields.io/badge/My-CV-critical)](http://girs.vn/vi/thong-tin-thanh-vien/23/thanh-long-do.html) -->
 
 ### I❤Open-source.
 
@@ -120,3 +122,7 @@ Here are some ideas to get you started:
 
 https://fsymbols.com/heart/
 -->
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=soiqualang&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+</p>

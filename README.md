@@ -76,21 +76,21 @@
 [dothanhlong.org](https://dothanhlong.org/soiqualang_chentreu/)
 
 <!-- BLOG-POST-LIST:START -->
+- [IONIC Error: Unknown argument: platform](https://dothanhlong.org/ionic-error-unknown-argument-platform/)
+- [QGIS OpenDay November 2022](https://dothanhlong.org/qgis-openday-november-2022/)
+- [AI tự động sinh JD tuyển dụng](https://dothanhlong.org/ai-tu-dong-sinh-jd-tuyen-dung/)
+- [[JS GIS] JavaScript GIS Simplify | GeoToolbox](https://dothanhlong.org/js-gis-javascript-gis-simplify-geotoolbox/)
+- [[JS GIS] JavaScript GIS Dissolve | GeoToolbox](https://dothanhlong.org/js-gis-javascript-gis-dissolve-geotoolbox/)
+- [[JS GIS] JavaScript GIS Tissot | GeoToolbox](https://dothanhlong.org/js-gis-javascript-gis-tissot-geotoolbox/)
+- [Docker Backup, Restore PostgreSQL Database](https://dothanhlong.org/docker-backup-restore-postgresql-database/)
+- [[JS GIS] JavaScript GIS Geolines | GeoToolbox](https://dothanhlong.org/js-gis-javascript-gis-geolines-geotoolbox/)
+- [[JS GIS] JavaScript GIS Featurecollection | GeoToolbox](https://dothanhlong.org/js-gis-javascript-gis-featurecollection-geotoolbox/)
+- [QGIS merge points within distance](https://dothanhlong.org/qgis-merge-points-within-distance/)
+- [[PHP built in server] Configure PHP built in server to show files of directory](https://dothanhlong.org/php-built-in-server-configure-php-built-in-server-to-show-files-of-directory/)
 - [[JS GIS] Gridded Population &lpar;15 minute&rpar; – United States in JavaScript](https://dothanhlong.org/js-gis-gridded-population-15-minute-united-states-in-javascript/)
 - [[JS GIS] JavaScript GIS Coords2geo | GeoToolbox](https://dothanhlong.org/js-gis-javascript-gis-coords2geo-geotoolbox/)
 - [GDAL GIS in Browser &lpar;JS GIS&rpar;](https://dothanhlong.org/gdal-gis-in-browser-js-gis-geotoolbox/)
 - [How to move the “C:\users\username\AppData” folder to another drive from C:\ drive?](https://dothanhlong.org/how-to-move-the-cusersusernameappdata-folder-to-another-drive-from-c-drive/)
-- [[GIT] Filename too long in Git for Windows](https://dothanhlong.org/git-filename-too-long-in-git-for-windows/)
-- [Tại sao đuôi của rắn đuôi chuông có thể phát ra tiếng động?](https://dothanhlong.org/tai-sao-duoi-cua-ran-duoi-chuong-co-the-phat-ra-tieng-dong/)
-- [Ionic capacitor Live Reload/ Hot Reload](https://dothanhlong.org/ionic-capacitor-live-reload-hot-reload/)
-- [[IONIC Capacitor Mobile Dev] Chang app name, version in Android](https://dothanhlong.org/ionic-capacitor-mobile-dev-chang-app-name-version-in-android/)
-- [Ionic cordova-res Error occurred while copying resources/android/icon/](https://dothanhlong.org/ionic-cordova-res-error-occurred-while-copying-resources-android-icon/)
-- [[Google Play Console] No countries or regions have been selected for this track. Add at least 1 country or region to roll out this release](https://dothanhlong.org/google-play-console-no-countries-or-regions-have-been-selected-for-this-track-add-at-least-1-country-or-region-to-roll-out-this-release/)
-- [Point cloud processing in QGIS and 3D data enhancements](https://dothanhlong.org/point-cloud-processing-in-qgis-and-3d-data-enhancements/)
-- [Ionic capacitor build APK debug and App bundle ABB](https://dothanhlong.org/ionic-capacitor-build-apk-debug-and-app-bundle-abb/)
-- [IONIC Cordova to Capacitor migration](https://dothanhlong.org/ionic-cordova-to-capacitor-migration/)
-- [Android No usable Android build tools found. Highest 32.x installed version is 30.0.3; Recommended version is 32.0.0](https://dothanhlong.org/android-no-usable-android-build-tools-found-highest-32-x-installed-version-is-30-0-3-recommended-version-is-32-0-0/)
-- [Run capacitor Android Ok](https://dothanhlong.org/run-capacitor-android-ok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

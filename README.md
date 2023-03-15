@@ -21,7 +21,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
+<i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

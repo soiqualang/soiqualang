@@ -3,10 +3,11 @@
 ## soiqualang_chentreu
 
 [![GitHub Badge](https://img.shields.io/github/followers/soiqualang?style=social)](https://github.com/soiqualang?tab=followers)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=M2rJ9t8AAAAJ&hl=en)
+[![Linkedin Badge](https://img.shields.io/badge/My-Linkedin-blue)](https://www.linkedin.com/in/thanh-long-do/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCVMwejzVTfpYQ9qFxOLF2lQ)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://dothanhlong.org/do-thanh-longs-cv/)
+[![CV Badge](https://img.shields.io/badge/My-CV-red)](https://dothanhlong.org/do-thanh-longs-cv/)
 ![Soi's website](https://img.shields.io/badge/soiqualang-website-red)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=M2rJ9t8AAAAJ&hl=en)
 <!-- [![CV Badge](https://img.shields.io/badge/My-CV-critical)](http://girs.vn/vi/thong-tin-thanh-vien/23/thanh-long-do.html) -->
 
 ### I❤Open-source.

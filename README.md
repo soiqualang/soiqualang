@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
+<i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

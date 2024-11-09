@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
+<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

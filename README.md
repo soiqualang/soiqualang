@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
+<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

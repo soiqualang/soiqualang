@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
+<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

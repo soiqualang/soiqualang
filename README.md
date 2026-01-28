@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
+<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---

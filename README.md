@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ... -->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
+<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
